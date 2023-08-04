@@ -78,3 +78,25 @@
     vertical-align: middle;
     margin-right: 10px;
   }
+
+  /* Estilos para la galería con 3 columnas */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-top: 10px;
+}
+
+.gallery-item {
+  text-align: center;
+}
+
+.gallery-item img {
+  width: 70%;
+  height: 70%;
+  margin-bottom: 3px;
+}
+
+.gallery-item p {
+  color: white;
+}
