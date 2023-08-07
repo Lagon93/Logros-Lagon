@@ -9,7 +9,6 @@ const Popup = ({ game, onClose }) => {
         <h2>{game.gameName}</h2>
         <button onClick={onClose}>X</button>
       </div>
-      <Scrollbars style={{ width: 700, height: 500 }}>
         {game.availableGameStats.achievements.map((achievement) => (
           <div key={achievement.name} className="achievement">
             <img src={achievement.icon} alt={achievement.displayName} />
@@ -19,7 +18,7 @@ const Popup = ({ game, onClose }) => {
             </div>
           </div>
         ))}
-      </Scrollbars>
+      
     </div>
   );
 };
