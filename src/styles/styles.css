@@ -14,6 +14,8 @@
   padding-top: 40px;
   padding-bottom: 20px;
   filter: drop-shadow(5px 5px 7px #1f1e1e);
+  animation: myAnim 4s ease 2s infinite normal both;
+
 }
 
 .card {
@@ -30,6 +32,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  align-items: flex-end;
   margin-top: 10px;
 }
 
@@ -40,8 +43,8 @@
 }
 
 .gallery-item img {
-  width: 70%;
-  height: 70%;
+  width: 100%;
+  height: auto;
   margin-bottom: 3px;
 }
 
@@ -95,6 +98,20 @@ table img {
 
 .popup.open {
   display: block;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #ce3737 !important;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  max-width: 90%;
+  width: 500px;
+  z-index: 3;
+  text-align: center;
+  overflow-y: scroll; /* Permite desplazamiento vertical si el contenido es demasiado largo */
+  max-height: 80vh; 
 }
 
 .popup-header {
@@ -171,7 +188,7 @@ table img {
   margin-bottom: 20px;
   background: linear-gradient(to right, #000, #555); /* Degradado de negro a gris */
   border-radius: 8px; /* Bordes redondeados para cada elemento */
-  padding: 10px; /* Espaciado interno para el contenido */
+  padding: 10px 10px 10px 40px; /* Espaciado interno para el contenido */
 }
 
 
@@ -201,4 +218,33 @@ table img {
 .achievementsList {
   /* Oculta la barra de desplazamiento por defecto */
   overflow: hidden;
+}
+
+/*Animacion del patito*/ 
+@keyframes myAnim {
+	0%,
+	100% {
+		transform: translateX(0%);
+		transform-origin: 50% 50%;
+	}
+
+	15% {
+		transform: translateX(-30px) rotate(-6deg);
+	}
+
+	30% {
+		transform: translateX(15px) rotate(6deg);
+	}
+
+	45% {
+		transform: translateX(-15px) rotate(-3.6deg);
+	}
+
+	60% {
+		transform: translateX(9px) rotate(2.4deg);
+	}
+
+	75% {
+		transform: translateX(-6px) rotate(-1.2deg);
+	}
 }

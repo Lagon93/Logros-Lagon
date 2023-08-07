@@ -2,9 +2,9 @@ import React from 'react';
 import { Scrollbars } from 'react-custom-scrollbars';
 
 const Popup = ({ game, onClose }) => {
-    console.log("game:", game); // Agrega esta línea
+    console.log("game:", game); 
   return (
-    <div className="popup" style={{ backgroundColor: game.backgroundColor }}>
+    <div className={game && "popup open"} style={{ backgroundColor: game.backgroundColor }}>
       <div className="popup-header">
         <h2>{game.gameName}</h2>
         <button onClick={onClose}>X</button>

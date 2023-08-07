@@ -48,7 +48,7 @@ const HomePage = () => {
     <div className="page-background">
       <img src="/LOGO2.png" alt="Logo de Logros de Lagon" className="logo" />
       <div className="card">
-        <h1>Logros diarios</h1>
+        <h1>LOGROS DIARIOS</h1>
         {achievementsData.map((achievement) => (
           <div key={achievement.id} className="achievement">
             <img src={achievement.imageUrl} alt={achievement.title} />
@@ -63,7 +63,7 @@ const HomePage = () => {
 
         {/* Nueva sección con la segunda card */}
         <div className="card">
-        <h1>Juegos Completados</h1>
+        <h1>JUEGOS COMPLETADOS</h1>
         <div className="gallery">
           {gamesData.map((game) => (
             <div key={game.gameName} className="gallery-item">
@@ -71,7 +71,7 @@ const HomePage = () => {
                 className="game-icon"
                 onClick={() => handleGameClick(game.gameName)} // Actualizamos el onClick para llamar a handleGameClick
               >
-                <img src={game.imageUrl} alt={game.gameName} width="50" height="50" />
+                <img src={game.imageUrl} alt={game.gameName} />
               </div>
               <p>{game.gameName}</p>
             </div>
