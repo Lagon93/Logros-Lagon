@@ -1,0 +1,853 @@
+[
+  {
+    "gameName": "Death's Door",
+    "gameVersion": "3",
+    "imageUrl": "https://cdn2.unrealengine.com/egs-deathsdoor-acidnerve-ic1-400x225-67ea9cd0ee1e.png?h=270&quality=medium&resize=1&w=480",
+    "availableGameStats": {
+      "achievements": [
+        {
+          "name": "ach_game",
+          "defaultvalue": 0,
+          "displayName": "Jugador cuervo",
+          "hidden": 0,
+          "description": "Completa el juego",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/cdc6d9a98d7655aae9c229f35d9f61383627e49e.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/5fc7f97d210caa76c7576faee95d40fd866e39bd.jpg"
+        },
+        {
+          "name": "ach_umbrella",
+          "defaultvalue": 0,
+          "displayName": "Academia del paraguas",
+          "hidden": 0,
+          "description": "Completa el juego usando solo un paraguas como arma cuerpo a cuerpo",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/ce9a2231ba1cb12e8c37d45ec7416edccca906e1.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/5b9ffb5afe7470bdaed529f0e17083729d232964.jpg"
+        },
+        {
+          "name": "ach_king",
+          "defaultvalue": 0,
+          "displayName": "Una comida para un rey",
+          "hidden": 0,
+          "description": "Dale al Rey Rana un manjar explosivo",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/6f23d11ac4767878c0ebc3706b6ba0cd06c2dd78.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/9ea21df855e16f7cd48bf55833e527005bf6029e.jpg"
+        },
+        {
+          "name": "ach_hotpot",
+          "defaultvalue": 0,
+          "displayName": "Vasija caliente",
+          "hidden": 0,
+          "description": "Quema la vasija de la abuela",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/34b1b0480ee79b46aef8c56d31488e64c37720f5.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/db409c37d179d598ba4b355c652cace92893266e.jpg"
+        },
+        {
+          "name": "ach_tune",
+          "defaultvalue": 0,
+          "displayName": "Canción pegadiza",
+          "hidden": 0,
+          "description": "Escucha la gran obra de Barbi",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/a64bfb93739d40ac7d76fae250c1b0cffdbd43d1.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/59800eb7c7a6c732bf979ce59b1194abc8895851.jpg"
+        },
+        {
+          "name": "ach_clever",
+          "defaultvalue": 0,
+          "displayName": "Listo mucho",
+          "hidden": 0,
+          "description": "Consigue un seguidor devoto",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/7e82cc8c9f64c86ca814c080f7278eb42f37358c.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/46efc64a5b2e18a2b8ae93d1142dcf3955b331ca.jpg"
+        },
+        {
+          "name": "ach_specialist",
+          "defaultvalue": 0,
+          "displayName": "Especialista",
+          "hidden": 0,
+          "description": "Lleva al máximo cualquiera de las 4 estadísticas",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/4be228ea16448c9c6c4695a529bde3be453295f9.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/a76847e01d89b948769a70326c6db5ccc3ed345f.jpg"
+        },
+        {
+          "name": "ach_spend",
+          "defaultvalue": 0,
+          "displayName": "Derrochador",
+          "hidden": 0,
+          "description": "Adquiere 12 mejoras de estadísticas",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/865ff1fcf855d17fd888fc3cfc55e2289d0acd7a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/78d91a981482e11461d0a2b24084d8f44c18d95b.jpg"
+        },
+        {
+          "name": "ach_shiny",
+          "defaultvalue": 0,
+          "displayName": "¡Oh, cómo reluce!",
+          "hidden": 0,
+          "description": "Consigue todas las cosas relucientes",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/0b6daeb0fbb043315993ab7d8bd12252da1689b3.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/cad49b64f9193d166aeea78d4932972c4a4ace4a.jpg"
+        },
+        {
+          "name": "ach_weapons",
+          "defaultvalue": 0,
+          "displayName": "Maestro de armas",
+          "hidden": 0,
+          "description": "Consigue todas las armas",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/b19cba2cb3e9fdd8bccae182bd8180bc7113af12.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/e96dccd6d9db15afc3184b04415d000ee8140268.jpg"
+        },
+        {
+          "name": "ach_shrines",
+          "defaultvalue": 0,
+          "displayName": "Zen",
+          "hidden": 0,
+          "description": "Encuentra todos los santuarios",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/3731e9b842307f28a8efd3cf4e2b647b87cf896f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/fbeacc14b709b55b55e285bdbe0b959f5777cc5b.jpg"
+        },
+        {
+          "name": "ach_jeff",
+          "defaultvalue": 0,
+          "displayName": "Un paseo con Jefferson",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/0ace44b7fe99beb8b87ed3e90e0af37031bf9afc.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/7b37884d21ccbea1f946b32af53ef454ed509b18.jpg"
+        },
+        {
+          "name": "ach_plants",
+          "defaultvalue": 0,
+          "displayName": "Se cosecha lo que se siembra",
+          "hidden": 0,
+          "description": "Recoge y planta todas las semillas",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/e3d73f8cf14fc398551ecd4ccca08f9f2361a3c5.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/062c7d05237f5541c59d81008c483f17dc7df095.jpg"
+        },
+        {
+          "name": "ach_conga",
+          "defaultvalue": 0,
+          "displayName": "La conga",
+          "hidden": 0,
+          "description": "Haz que te siga un grupo de más de 10 espíritus del bosque",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/cb28d400ed15fd5a38868b226c52fe6522bd0080.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/1bb284a7bdfb28c88bd3ff9dcff7b4eab804b76f.jpg"
+        },
+        {
+          "name": "ach_pothead",
+          "defaultvalue": 0,
+          "displayName": "Cuidadín con el jardín",
+          "hidden": 0,
+          "description": "Accede al jardín secreto de Caravasija",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/9565ac74d34fbb2b7f67131a3b06e72866591c52.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/fd0791dc8a7315b9579ef92ca7ad3a659a7e0029.jpg"
+        },
+        {
+          "name": "ach_chore",
+          "defaultvalue": 0,
+          "displayName": "Mejor imposible",
+          "hidden": 0,
+          "description": "Completa el juego al 100 %",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/8af1f3c24c62eefd8532574ef4f1e825bded3272.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/7a4d3493f4d1be0b82e71343f40e1b4d956734dc.jpg"
+        },
+        {
+          "name": "ach_soup",
+          "defaultvalue": 0,
+          "displayName": "¿Sopa de calamar?",
+          "hidden": 0,
+          "description": "Acepta la sopa de Jefferson",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/9723ed1a9dea7ae7205b38e14a2eb1b900712873.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/65f86684e90425c091930da0a813c8cc363537cd.jpg"
+        },
+        {
+          "name": "ach_tsa",
+          "defaultvalue": 0,
+          "displayName": "Todo en orden",
+          "hidden": 0,
+          "description": "Consigue hacer pasar un espíritu del bosque a través de seguridad",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/966f1b7a26911485946db8e6c3d823636c196e57.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/69b5cdef2df05345af87fae5644d33ef31d173d1.jpg"
+        },
+        {
+          "name": "ach_owls",
+          "defaultvalue": 0,
+          "displayName": "Me camelo a los mochuelos",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/f51da78cf661a6674c24b184334ab1f1b26c55d2.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/9fd02a1228a81f728d67ddf0ca2aae70fa888ab4.jpg"
+        },
+        {
+          "name": "ach_fire",
+          "defaultvalue": 0,
+          "displayName": "Incineración",
+          "hidden": 0,
+          "description": "Mejora la capacidad de llama",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/c7847a50f8b6bc91a9f71d9b2c3141f580fc59b1.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/17ff856f04d65302e4e9b2056889dd44128a1345.jpg"
+        },
+        {
+          "name": "ach_bomb",
+          "defaultvalue": 0,
+          "displayName": "Cuervo de demolición",
+          "hidden": 0,
+          "description": "Mejora la capacidad de bomba",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/45df6163c6d1eec9ab0cca30cdcb14f415588a4e.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/365864e451a97c6691a95aa6e7b65a62ffe9c6e4.jpg"
+        },
+        {
+          "name": "ach_hook",
+          "defaultvalue": 0,
+          "displayName": "Tigre y cuervón",
+          "hidden": 0,
+          "description": "Mejora la capacidad de arpeo",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/586457f187ee2b8cee7ca46bcf336d3024a4b921.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/514d4b6cf4491ad32ebab6ba71ad1578b08d56f9.jpg"
+        },
+        {
+          "name": "ach_arrow",
+          "defaultvalue": 0,
+          "displayName": "Ojo de halcón",
+          "hidden": 0,
+          "description": "Mejora la capacidad de flecha",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/25e2195cd4d319dd50ff914ff69960117682b131.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/1b0b853ab0533b1d222fe47f9b77a7c3242d623d.jpg"
+        },
+        {
+          "name": "ach_truth",
+          "defaultvalue": 0,
+          "displayName": "El final verdadero",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/cf363ae690f308c3606ba6e657fd5aa0c272e594.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/5ccef674b3cf2aba0b43ad05220cdb96ee1e201f.jpg"
+        }
+      ],
+      "stats": [
+        {
+          "name": "stat_spend",
+          "defaultvalue": 0,
+          "displayName": "Stats Upgraded"
+        },
+        {
+          "name": "stat_trinkets",
+          "defaultvalue": 0,
+          "displayName": "Shiny Things"
+        },
+        {
+          "name": "stat_weapons",
+          "defaultvalue": 0,
+          "displayName": "Weapons"
+        },
+        {
+          "name": "stat_shrines",
+          "defaultvalue": 0,
+          "displayName": "Shrines"
+        },
+        {
+          "name": "stat_plants",
+          "defaultvalue": 0,
+          "displayName": "Plants & Seeds"
+        },
+        {
+          "name": "stat_crows",
+          "defaultvalue": 0,
+          "displayName": "Crows Talked To"
+        },
+        {
+          "name": "stat_owls",
+          "defaultvalue": 0,
+          "displayName": "Owls Met"
+        }
+      ]
+    }
+  },
+
+
+{
+  
+    "gameName": "Assassin's Creed Origins",
+    "gameVersion": "27",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/fr/5/5d/Assassin%27s_Creed_Origins_Logo.png",
+    "availableGameStats": {
+      "achievements": [
+        {
+          "name": "001",
+          "defaultvalue": 0,
+          "displayName": "Primeros pasos",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/d64bfc63b1a5960bb3b3038c211094d6c2e4f744.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/df2de7ac7cabcaff37f57090c84ac7be2a57ad2e.jpg"
+        },
+        {
+          "name": "002",
+          "defaultvalue": 0,
+          "displayName": "No he hecho más que empezar",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/c3c78b9300b22a2fa989667cf2e2320d21b02aa2.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/adc84837861d189386e1bc7e5d6b5aaf50d9c93b.jpg"
+        },
+        {
+          "name": "003",
+          "defaultvalue": 0,
+          "displayName": "El mar",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/542ff03f56ae825ad833fe7a3c91244fe0d177e1.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/6156d976f70291a37736c42c60a82e520dc48da2.jpg"
+        },
+        {
+          "name": "004",
+          "defaultvalue": 0,
+          "displayName": "El Escarabajo",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/e0243b4bdaf95c4e2460f5666287626beafe5047.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/d15eb206f9b04569757adc3016a0c857c88f3487.jpg"
+        },
+        {
+          "name": "005",
+          "defaultvalue": 0,
+          "displayName": "La Hiena",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/56de7a006ade1a4c795665fc6fab57fd066e9c43.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/54e1f168b0704a33cf02f9f753a0e46ca5ae3a5e.jpg"
+        },
+        {
+          "name": "006",
+          "defaultvalue": 0,
+          "displayName": "El Cocodrilo",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/2a5ae9aa74fad48cbcddcb2d3f8394646e54717e.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/ff087058fe1c04ca989604f6a16439bf4b6434ca.jpg"
+        },
+        {
+          "name": "007",
+          "defaultvalue": 0,
+          "displayName": "El Lagarto",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/a44622c2d98b5fdb6846766e5a9ef7fd0e450add.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/eced54f104e94376c0e65144eff6a6f68dedad93.jpg"
+        },
+        {
+          "name": "008",
+          "defaultvalue": 0,
+          "displayName": "El asedio",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/e39e8a89f4e0913ce189fee30f39c2ef0bad60c9.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/bc192388c0640d234464138db489f5b7852ec1f4.jpg"
+        },
+        {
+          "name": "009",
+          "defaultvalue": 0,
+          "displayName": "¡Despierta!",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/1bf7740ce348eb23701dc8d387a827391f10d28f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/a9186985af45f1e4af6fdb23eac85c9bcd592a91.jpg"
+        },
+        {
+          "name": "010",
+          "defaultvalue": 0,
+          "displayName": "Ya falta poco",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/588ae3d12f302c9ec0983cd8ab4003a0331f025b.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/542ea417f7e0bd3cb1f29bd219373dfbca3d66f8.jpg"
+        },
+        {
+          "name": "011",
+          "defaultvalue": 0,
+          "displayName": "Fin",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/0bf5436f3853d38653dbd9856c3a36f8d2fabd29.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/d0403b54b651af8752ce7f3484c6611bf984b3a6.jpg"
+        },
+        {
+          "name": "012",
+          "defaultvalue": 0,
+          "displayName": "Soy una leyenda",
+          "hidden": 0,
+          "description": "Equípate solo con equipo legendario.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/a1b6412f65f860ddbe606727a0f72d22c7a1d094.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/cfd323c6520098e7732dbe71b31a3c7b021d4bab.jpg"
+        },
+        {
+          "name": "013",
+          "defaultvalue": 0,
+          "displayName": "Basta de enseñanzas",
+          "hidden": 0,
+          "description": "Activa una habilidad de maestro.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/0ad6e8b02843ff3db922e2b60adb08c86a2accfa.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/27f5006fb9c2c21d73950be20ee071062b71e5ec.jpg"
+        },
+        {
+          "name": "014",
+          "defaultvalue": 0,
+          "displayName": "Calentamiento global",
+          "hidden": 0,
+          "description": "Observa cómo llueven bichos en el desierto.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/4015a925b8d139e401c5fda8571ddb818d155fd6.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/19af26fb2bf6b83d5994e0e21cb4312a55eb50b3.jpg"
+        },
+        {
+          "name": "015",
+          "defaultvalue": 0,
+          "displayName": "Morituri te salutant",
+          "hidden": 0,
+          "description": "Completa todos los eventos de la arena de Krocodilopolis.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/a49ef79218f92ae5b2eb8d9d318f569394ec077a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/ae2b240382dc9446d911f3ad303af0ab1cdeff21.jpg"
+        },
+        {
+          "name": "016",
+          "defaultvalue": 0,
+          "displayName": "¡Brutal!",
+          "hidden": 0,
+          "description": "Derrota a un jefe de la arena con un ataque con sobrecarga.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/f836c58171e92d655b85ec8cc6a9aa7c8fe87cf7.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/5705eb2f241420e67cac89752f83d2da3d86a7f7.jpg"
+        },
+        {
+          "name": "017",
+          "defaultvalue": 0,
+          "displayName": "Ben-Hur",
+          "hidden": 0,
+          "description": "Gana el primer torneo del hipódromo.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/62bf15d72469fd7a9ce025c1917935e94b5bf961.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/68506d34f5a5f4b2735cee7948bcfccf5b74438b.jpg"
+        },
+        {
+          "name": "018",
+          "defaultvalue": 0,
+          "displayName": "Conducción temeraria",
+          "hidden": 0,
+          "description": "Destruye a un rival en una carrera del hipódromo.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/83ff331652db99e0812f6405723d425df17b8ffc.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/4bef13e060e278d216f9772ffb408b90872ba2bc.jpg"
+        },
+        {
+          "name": "019",
+          "defaultvalue": 0,
+          "displayName": "Más dura será la caída",
+          "hidden": 0,
+          "description": "Derrota a los elefantes de guerra Qetesh y Resheph.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/23d2bc26a21d7197bc19ffc29cb5850dc1000ea2.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/69566ba577b3b5793ae647b7ca7bb26260d3f00b.jpg"
+        },
+        {
+          "name": "020",
+          "defaultvalue": 0,
+          "displayName": "Carnicero",
+          "hidden": 0,
+          "description": "Mata a tres enemigos de un solo golpe.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/bcde4fdb09e2e6d2ea64fec6afb87e28432d654a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/8a335ff5fff713c3f09c80fe58dcf065c652310b.jpg"
+        },
+        {
+          "name": "021",
+          "defaultvalue": 0,
+          "displayName": "El hombre que susurraba a las flechas",
+          "hidden": 0,
+          "description": "Mata a un enemigo a más de 60 metros con el arco de depredador y controlando la flecha.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/ab76533482d87b16b4109260bfe74208fa50f8e1.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/7171009782ebf2712878069eb24222157962160d.jpg"
+        },
+        {
+          "name": "022",
+          "defaultvalue": 0,
+          "displayName": "Sabias palabras",
+          "hidden": 0,
+          "description": "Completa todos los refugios de ermitaño.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/f8b980653421c5c15c682c1faed4b697f2e8192e.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/d7ed7ca7a29b9598b9c0a3f3cd826044a92ce8e7.jpg"
+        },
+        {
+          "name": "023",
+          "defaultvalue": 0,
+          "displayName": "El ciclo de la vida",
+          "hidden": 0,
+          "description": "Alimenta a un depredador con un cadáver.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/8e0fda0c239b73a6dcef3ee22e10f885391b67b4.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/058dfd1591ad4089362f098d20f2eac3c34950cd.jpg"
+        },
+        {
+          "name": "024",
+          "defaultvalue": 0,
+          "displayName": "Siete granjeros",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/fa1837bd37e829d97d44ecf02829a5d540a9732e.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/b87323494d2a945eb60e08c60d66019981dede3f.jpg"
+        },
+        {
+          "name": "025",
+          "defaultvalue": 0,
+          "displayName": "El festival",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/56cb65e0f969cfd590f3df78a85c96137669d924.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/5ff2a5e303ffd4fecea0a1dc5280a819011be06e.jpg"
+        },
+        {
+          "name": "026",
+          "defaultvalue": 0,
+          "displayName": "La sombra de Egipto",
+          "hidden": 0,
+          "description": "Mata a diez enemigos seguidos sin que te detecten.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/37658a374aaf06a5b4d295f0c40d2f678aa2dc64.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/a75e3b6bd417e6ff4980942e68a225ad7e430981.jpg"
+        },
+        {
+          "name": "027",
+          "defaultvalue": 0,
+          "displayName": "¡Zasca!",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/dc49588294d59303dcc2783d553fe713796fdbbb.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/0ffa1162b3adf7e6b1d6011cc4d5b9005d769caf.jpg"
+        },
+        {
+          "name": "028",
+          "defaultvalue": 0,
+          "displayName": "Conozco mi tierra",
+          "hidden": 0,
+          "description": "Desvela todo el mapa.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/37966a794b8294b4ee7683101205d7cb7f93a65a.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/53ae415266339bab1f5a22bb6ab8d626a58cb74a.jpg"
+        },
+        {
+          "name": "029",
+          "defaultvalue": 0,
+          "displayName": "En busca de la tumba perdida",
+          "hidden": 0,
+          "description": "Completa una tumba.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/4ba29bc6000f680c5ed4135b23af383eba8b92bc.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/5808545c2096d5870cd25db0d3943977edb71825.jpg"
+        },
+        {
+          "name": "030",
+          "defaultvalue": 0,
+          "displayName": "¡Veo mi casa desde aquí!",
+          "hidden": 0,
+          "description": "Sube a la cima del mundo, en el desierto negro.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/363b27b9e20793038cc919b48ce7bd18168db81e.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/897502bc85dbd72c1f8ce87e7266c9663e267eae.jpg"
+        },
+        {
+          "name": "031",
+          "defaultvalue": 0,
+          "displayName": "Primeras citas",
+          "hidden": 0,
+          "description": "Conduce a un león domado hasta un cocodrilo.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/acd0e1fe0fe30c8b39d4d9534f174f9dff4f7016.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/270c7bbf2d04f10db5b341984a4a2406012f4f08.jpg"
+        },
+        {
+          "name": "032",
+          "defaultvalue": 0,
+          "displayName": "¿Y mi bandera negra?",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/748a15cfe98879c7aa49a7c3d29a47b76aa63ec6.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/99c786ba9e84e5378d54db397550cc0bde2f49ed.jpg"
+        },
+        {
+          "name": "033",
+          "defaultvalue": 0,
+          "displayName": "Reportero",
+          "hidden": 0,
+          "description": "Saca una foto en cinco territorios diferentes.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/9c57ccab554ee18a0c64eb54eddb28b5f89daabe.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/a6911b818419c6be4dd5f6246077281eff80e9c2.jpg"
+        },
+        {
+          "name": "034",
+          "defaultvalue": 0,
+          "displayName": "Te has pasado",
+          "hidden": 0,
+          "description": "Usa la antorcha para matar a un enemigo de nivel 35+ envenenado en menos de 30 segundos.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/31dc0563cc3c9d8e3f10dbee74ec6d6f84aef630.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/0ee0ab8433e04582ecfc8534cf6ae5001d66dc3e.jpg"
+        },
+        {
+          "name": "035",
+          "defaultvalue": 0,
+          "displayName": "Como el ave que escapó de su prisión",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/e5eec2abf19b829d5ee69e709e10ff1a543d1670.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/f4de622bc74736f04538edfdfffc31dea3a43cca.jpg"
+        },
+        {
+          "name": "036",
+          "defaultvalue": 0,
+          "displayName": "Triatleta",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/e54e1e9fd76302f7e9321a58dd92410291ea3103.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/d97835145af71c41c4809ebfc013295eb886f060.jpg"
+        },
+        {
+          "name": "037",
+          "defaultvalue": 0,
+          "displayName": "Arquero del mes",
+          "hidden": 0,
+          "description": "Mata a un enemigo de un tiro a la cabeza con el arco mientras estás en el aire.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/988af1a9cedac1d340bf512240b8fb439c2214bc.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/20812c2bc27d99962fa0b2748e139aead4dbb8ca.jpg"
+        },
+        {
+          "name": "038",
+          "defaultvalue": 0,
+          "displayName": "¡BUM!",
+          "hidden": 0,
+          "description": "Mata a 30 enemigos al disparar una flecha de fuego a una vasija de aceite.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/145a5eb25db3eaf9052a5afb58989e7c190ecf65.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/e75308f569b70b61de15ab9e150acecdddcc5ca8.jpg"
+        },
+        {
+          "name": "039",
+          "defaultvalue": 0,
+          "displayName": "Carné de auriga",
+          "hidden": 0,
+          "description": "Usa cada tipo de montura al menos una vez.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/c5559439a30f0fa5fca699987f713568a621d595.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/4f2ff7a602f3cea61e39bca1637f9d42c8cb2ca6.jpg"
+        },
+        {
+          "name": "040",
+          "defaultvalue": 0,
+          "displayName": "Viejas costumbres",
+          "hidden": 0,
+          "description": "Completa todas las ubicaciones.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/92d84c8baa51e1c661d91cb2f03ed041d7078983.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/91ed257a0fd79bf49107318a261333441d31542a.jpg"
+        },
+        {
+          "name": "041",
+          "defaultvalue": 0,
+          "displayName": "¡Corre por tu vida!",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/b27dc3003864ed802ce9ef2a3dead760fea68cb2.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/869f8c2a76776646bcbf561e432d0f2c4bb71dd9.jpg"
+        },
+        {
+          "name": "042",
+          "defaultvalue": 0,
+          "displayName": "Elemental, querido Bayek",
+          "hidden": 0,
+          "description": "Resuelve un acertijo de papiro.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/3ba4bf00ddbbe502926fe527a93705e5e6d8926b.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/8da2e20b143dddc47d831da97c07f60d8d37615f.jpg"
+        },
+        {
+          "name": "043",
+          "defaultvalue": 0,
+          "displayName": "Reducir, reutilizar, reciclar",
+          "hidden": 0,
+          "description": "Vende cien baratijas a la vez.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/f6bf422bc5f8780608a2d8f8e4e472ddb19a074b.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/c33a0d0a11911642b9ec0725a1c312d9c368c172.jpg"
+        },
+        {
+          "name": "044",
+          "defaultvalue": 0,
+          "displayName": "Namasté",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/38d68ac8b09fe6ccc28f02279102e224024a75e5.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/a9efd56fc1c8fd49407e61841529c03a837c9909.jpg"
+        },
+        {
+          "name": "045",
+          "defaultvalue": 0,
+          "displayName": "Aún te faltan 8880…",
+          "hidden": 0,
+          "description": "Alcanza el nivel 20.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/fd085844f7493806b115932992dc7101eb701fce.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/35076c2a3ce90c19346b4a65f7780f64850cc808.jpg"
+        },
+        {
+          "name": "046",
+          "defaultvalue": 0,
+          "displayName": "Estelar",
+          "hidden": 0,
+          "description": "Completa los 12 círculos de piedras.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/8ba17c12bfffd0b0b850ce7c2710500e86baaba8.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/70e0600bda2bc14bf82ba1b02baa419718e44dfe.jpg"
+        },
+        {
+          "name": "047",
+          "defaultvalue": 0,
+          "displayName": "As del buceo",
+          "hidden": 0,
+          "description": "Completa 15 ubicaciones submarinas.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/a1aeee76d1814e22cbb719a5cdd17e4e0e96af23.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/a5f9b5e39654f423be96b418c419927f314f30e6.jpg"
+        },
+        {
+          "name": "048",
+          "defaultvalue": 0,
+          "displayName": "Contra la autoridad",
+          "hidden": 0,
+          "description": "Derrota a un phylakes.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/8a67a93741a00a53a58bc446ecbca785525475a9.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/34ebe40957cdccbe548f448e30de25874e0ae79b.jpg"
+        },
+        {
+          "name": "049",
+          "defaultvalue": 0,
+          "displayName": "Manitas",
+          "hidden": 0,
+          "description": "Crea 20 objetos.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/0c92124c78e078cb49928501e30b9138dbb3f1a1.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/e67701d409e159fbe86899f914f7ce65c0ffac07.jpg"
+        },
+        {
+          "name": "050",
+          "defaultvalue": 0,
+          "displayName": "¡Grrr!",
+          "hidden": 0,
+          "description": "Doma a un león.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/160789330b1ba51ee06c5b074da44b546c430c4b.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/aea705ea9daa8fd4af55f3cf75088521a9179119.jpg"
+        },
+        {
+          "name": "051",
+          "defaultvalue": 0,
+          "displayName": "¿Qué hora es?",
+          "hidden": 0,
+          "description": "Haz un salto de fe desde el reloj del obelisco de Arsínoe entre las 10 y el mediodía (Los Ocultos).",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/0bd2c971dc0acbeaa03c0320c39372987ba6b877.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/dbd3c1850de0ea4ceea23d0f7ed4c471adb4a38a.jpg"
+        },
+        {
+          "name": "052",
+          "defaultvalue": 0,
+          "displayName": "Tirolina mortal",
+          "hidden": 0,
+          "description": "Realiza 3 asesinatos desde una tirolina (Los Ocultos).",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/ce6c3150069f55e71e3d307b9e41a4b1c19f3270.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/883f64d9e151b84c3c03f2272fd4f3f16cbc6a39.jpg"
+        },
+        {
+          "name": "053",
+          "defaultvalue": 0,
+          "displayName": "La fuga",
+          "hidden": 0,
+          "description": "Libera a 20 rebeldes (Los Ocultos).",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/53391f46078d564dabb0e878f07435fc55b549f4.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/bdbc2260bbd24d7247731141783e6bdbc1e7fc99.jpg"
+        },
+        {
+          "name": "054",
+          "defaultvalue": 0,
+          "displayName": "Trabajo en equipo",
+          "hidden": 0,
+          "description": "Mata a un enemigo de un tiro a la cabeza mientras es acosado por Senu (Los Ocultos).",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/a47caafa9719f5f3fea2f8c289334f2a6ff0e868.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/a2d8fe88398c7f589fb92cd1b6ce1d34a1c14a6c.jpg"
+        },
+        {
+          "name": "055",
+          "defaultvalue": 0,
+          "displayName": "Murallas del gobernante",
+          "hidden": 0,
+          "description": "Completa la ciudadela de las Murallas del gobernante (Los Ocultos).",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/c2d174f3c8c653e395cd1526d0858d1da21a3132.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/a45cb3e63d697ae57dfdaa31ed0086b78b986050.jpg"
+        },
+        {
+          "name": "056",
+          "defaultvalue": 0,
+          "displayName": "Ataques quirúrgicos",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/bacd4aab23d04a176f0911c21bcbb1d72861d518.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/97a582a6c16849586aa80cd3a5b667cf5ad05dab.jpg"
+        },
+        {
+          "name": "057",
+          "defaultvalue": 0,
+          "displayName": "Nuevos reclutas",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/4fd4873d4bb2607a2badbac9118903eea6cd3392.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/7e52865640eb6b6ed22e8ad795c59be77f40c52b.jpg"
+        },
+        {
+          "name": "058",
+          "defaultvalue": 0,
+          "displayName": "El bien común",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/65cf9935ccf84dc31628b5b7aba67e9eb70260d6.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/0bbebed523c3ba179aceda27c21655ceb05bfb30.jpg"
+        },
+        {
+          "name": "059",
+          "defaultvalue": 0,
+          "displayName": "Primera visita",
+          "hidden": 0,
+          "description": "Completa un recorrido.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/8e43d477e2798d3aba28030f1810daebd695f1f8.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/ce29201092b59ec3a43e1c238cc40c0a3bedd6b7.jpg"
+        },
+        {
+          "name": "060",
+          "defaultvalue": 0,
+          "displayName": "Arqueólogo",
+          "hidden": 0,
+          "description": "Completa todos los recorridos de la categoría Vida diaria.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/1618cc9af1695228827fbad0894092d7efe89ea2.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/e7e91821f3a694a31aebc4ff1b7c921edc246108.jpg"
+        },
+        {
+          "name": "061",
+          "defaultvalue": 0,
+          "displayName": "Polimorfo",
+          "hidden": 0,
+          "description": "Completa recorridos con al menos cinco personajes distintos.",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/e8cca16b4fde0c34ec37998c4d9d5484dbbce5ef.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/22760b888179ca6e6f933e6b0fc0269e8a8fcb67.jpg"
+        },
+        {
+          "name": "062",
+          "defaultvalue": 0,
+          "displayName": "Eliminar la maldición",
+          "hidden": 1,
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/30bdb8fcda6460f4c8d698877a0155c9d9ffdcfb.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/1494568a5e1b373c474cdeba0e6123b17b56e0a1.jpg"
+        },
+        {
+          "name": "063",
+          "defaultvalue": 0,
+          "displayName": "Más poder",
+          "hidden": 0,
+          "description": "Alcanza el nivel 55. (La maldición de los faraones)",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/64ba1af80769e2cc909599ce47405374ea8dc00f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/6d481882288514d57a944ca8259eb8b697fc545c.jpg"
+        },
+        {
+          "name": "064",
+          "defaultvalue": 0,
+          "displayName": "Caballo negro",
+          "hidden": 0,
+          "description": "Adquiere Fauces eternas para usarlo fuera del más allá. (La maldición de los faraones)",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/11d64f10463bed13572d85aaf670dea33bf2a110.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/b6e3b9ba5166ac055c605c75454f5c6c4b6ec9df.jpg"
+        },
+        {
+          "name": "065",
+          "defaultvalue": 0,
+          "displayName": "El aguijón de la historia",
+          "hidden": 0,
+          "description": "Completa las 5 ubicaciones de Serket. (La maldición de los faraones)",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/534ddbf079db21d188a80e9ccdfd54bd7d41df56.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/2bf0b4df0aa4aed2fdc2ce6eec522ced9350ac36.jpg"
+        },
+        {
+          "name": "066",
+          "defaultvalue": 0,
+          "displayName": "Proyecto cometa",
+          "hidden": 0,
+          "description": "Crea una mejora con fragmentos de estrella. (La maldición de los faraones)",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/7867e22bb05231c6be1849fec328fe3388ccbc4f.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/d8c4ef7be2430bc010d3f6118e4ef2a3e93d8838.jpg"
+        },
+        {
+          "name": "067",
+          "defaultvalue": 0,
+          "displayName": "Pirómano",
+          "hidden": 0,
+          "description": "Prende fuego a una momia y mátala. (La maldición de los faraones)",
+          "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/f7ce374f9d9115172adb0e7ed3aead3af25cec82.jpg",
+          "icongray": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/582160/c8e966af46671436ec9079b6b75714271ea861f1.jpg"
+        }
+      ]
+    }
+  }
+]

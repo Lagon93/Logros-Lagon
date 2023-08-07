@@ -1,0 +1,204 @@
+/* Estilos generales */
+.page-background {
+  background-image: url("../img/background.png");
+  background-size: contain;
+  background-repeat: repeat-y;
+  min-height: 100vh;
+}
+
+.logo {
+  display: block;
+  margin: auto;
+  max-width: 120px;
+  height: auto;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  filter: drop-shadow(5px 5px 7px #1f1e1e);
+}
+
+.card {
+  background: linear-gradient(to bottom, #2196F3, #0D47A1);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.gallery-item {
+  width: 30%;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.gallery-item img {
+  width: 70%;
+  height: 70%;
+  margin-bottom: 3px;
+}
+
+.gallery-item p {
+  color: white;
+}
+
+.card:nth-child(2) {
+  background: linear-gradient(to bottom, #2196F3, #0D47A1);
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+table td {
+  padding: 8px;
+  text-align: left;
+}
+
+table img {
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+.popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #ce3737 !important;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  max-width: 90%;
+  width: 500px;
+  z-index: 3;
+  display: none;
+  text-align: center;
+  overflow-y: scroll; /* Permite desplazamiento vertical si el contenido es demasiado largo */
+  max-height: 80vh; 
+  /* Altura máxima del popup (80% de la altura visible del viewport) */
+}
+
+.popup.open {
+  display: block;
+}
+
+.popup-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  padding: 5px 10px;
+  background-color: rgba(255, 255, 255, 0.9);
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+.popup-header h2 {
+  margin: 0;
+}
+
+.popup-header button {
+  font-size: 20px;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.popup .achievement {
+  margin-bottom: 15px;
+}
+
+.popup .achievement img {
+  width: 70px;
+  height: 70px;
+  margin-right: 20px;
+}
+
+.popup .achievement h2,
+.popup .achievement p {
+  color: white;
+}
+
+.card h1 {
+  font-size: 24px;
+  text-align: center;
+  color: white;
+  margin-bottom: 20px;
+}
+
+/* Estilos para la lista de logros */
+.game-achievements {
+  width: 100%;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 8px;
+  margin-top: 10px;
+  text-align: center;
+  display: none;
+  position: absolute;
+  z-index: 1;
+  top: 100%;
+  left: 0;
+  background: linear-gradient(to right, #000, #555); /* Degradado de negro a gris */
+}
+
+/* Estilos para mostrar la lista de logros cuando esté abierta */
+.game-achievements.open {
+  display: block;
+  width: 42vw;
+  z-index: 2;
+}
+
+.achievement {
+  color: white;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  background: linear-gradient(to right, #000, #555); /* Degradado de negro a gris */
+  border-radius: 8px; /* Bordes redondeados para cada elemento */
+  padding: 10px; /* Espaciado interno para el contenido */
+}
+
+
+.achievement img {
+  width: 70px;
+  height: 70px;
+  margin-right: 20px;
+}
+
+
+
+/* CSS */
+/* Estilo para el contenedor de la barra de desplazamiento */
+.rcts {
+  background-color: #f1f1f1;
+}
+
+/* Estilo para el agarre de la barra de desplazamiento */
+.rcts-thumb {
+  background-color: #888;
+}
+
+/* Personalizar la barra de deslizamiento para navegadores basados en Firefox */
+.popup-content {
+  scrollbar-width: none;
+}
+.achievementsList {
+  /* Oculta la barra de desplazamiento por defecto */
+  overflow: hidden;
+}
