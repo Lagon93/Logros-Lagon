@@ -212,9 +212,7 @@ table img {
 }
 
 /* Personalizar la barra de deslizamiento para navegadores basados en Firefox */
-.popup-content {
-  scrollbar-width: none;
-}
+
 .achievementsList {
   /* Oculta la barra de desplazamiento por defecto */
   overflow: hidden;
