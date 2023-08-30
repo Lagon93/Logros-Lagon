@@ -10,8 +10,8 @@ const HomePage = () => {
   const [isPopupOpen, setIsPopupOpen] = useState(false);
   const [completedGamesCount, setCompletedGamesCount] = useState(0);
 
-  const handleGameClick = (gameName) => {
-    const selectedGame = gamesData.find((game) => game.gameName === gameName);
+  const handleGameClick = (gameId) => {
+    const selectedGame = gamesData.find((game) => game.id === gameId);
     setSelectedGame(selectedGame);
     setIsPopupOpen(true);
     console.log("isPopupOpen:", isPopupOpen);
@@ -29,7 +29,7 @@ const HomePage = () => {
       })
       .catch((error) => console.error('Error al cargar los datos de logros diarios:', error));
 
-    fetch('/gamesData.json')
+    fetch('/games.json')
       .then((response) => response.json())
       .then((data) => {
         setGamesData(data);
@@ -38,6 +38,9 @@ const HomePage = () => {
       .catch((error) => console.error('Error al cargar los datos de juegos de la galería:', error));
   }, []);
 
+  const getRandomRocaNumber = () => {
+    return Math.floor(Math.random() * 3) + 1;
+  };
   return (
     <div className="page-background">
       <img src="/LOGO2.png" alt="Logo de Logros de Lagon" className="logo" />
@@ -45,7 +48,9 @@ const HomePage = () => {
         <h1 id="diarios">LOGROS DIARIOS</h1>
         {achievementsData.map((achievement) => (
           <div key={achievement.id} className="achievement">
-            <img src={achievement.imageUrl} alt={achievement.title} />
+            <div className="roca-image">
+              <img src={`/rock${getRandomRocaNumber()}.png`} alt="Roca" />
+              </div>
             <div>
               <h2>{achievement.title}</h2>
               <p>{achievement.description}</p>
@@ -61,9 +66,9 @@ const HomePage = () => {
             <div key={game.gameName} className="gallery-item">
               <div
                 className="game-icon"
-                onClick={() => handleGameClick(game.gameName)}
+                onClick={() => handleGameClick(game.id)}
               >
-                <img src={game.imageUrl} alt={game.gameName} />
+                <img src={game.image} alt={game.gameName} />
               </div>
               <p>{game.gameName}</p>
             </div>

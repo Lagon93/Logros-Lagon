@@ -19,11 +19,11 @@
 }
 
 .card {
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   padding: 20px;
   background-size: cover;
   max-width: 800px;
-  margin: 0 auto;
+  margin:auto;
+  padding-bottom: 15rem;
   position: relative;
   background-image: url(../img/Forest\ Cliff\ Arbol.png);
   z-index: 2; /* Asegura que .card esté por encima de .card2 */
@@ -35,6 +35,10 @@
   justify-content: space-between;
   align-items: flex-end;
   margin-top: 10px;
+  margin-bottom: 5rem;
+  padding-right: 0.5rem;
+  overflow-y: scroll;
+  max-height: 25rem;
 }
 
 .gallery-item {
@@ -51,6 +55,7 @@
 
 .gallery-item p {
   color: white;
+
 }
 
 .card2 {
@@ -58,11 +63,14 @@
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   padding: 50px;
-  padding-bottom: 70px;
-  max-width: 800px;
+  padding-top: 8rem;
+  margin-top : -7rem!important;
   margin:auto;
-  background-size: cover;
-  z-index: 1; /* Valor menor para .card2 */
+  max-width: 800px;
+  max-height: 40rem;
+  background-size: 100%;
+  position: relative;
+  z-index: 1;/* Valor menor para .card2 */
 }
 
 #diarios{
@@ -165,6 +173,9 @@ table img {
   margin-bottom: 20px;
 }
 
+.completed-heading{
+  position: sticky;
+}
 /* Estilos para la lista de logros */
 .game-achievements {
   width: 100%;
@@ -246,4 +257,17 @@ table img {
   position: absolute;
   top: 0;
   left: 0;
+}
+
+/* Estilos para la imagen de la roca */
+.roca-image {
+  position: relative;
+  top: -10px;
+  left: -10px;
+  z-index: 3;
+}
+
+.roca-image img {
+  width: 40px;
+  height: 40px;
 }
