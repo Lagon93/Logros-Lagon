@@ -10,6 +10,10 @@ const HomePage = () => {
   const [isPopupOpen, setIsPopupOpen] = useState(false);
   const [completedGamesCount, setCompletedGamesCount] = useState(0);
 
+  const getRandomRocaNumber = () => {
+    return Math.floor(Math.random() * 3) + 1;
+  };
+  
   const handleGameClick = (gameId) => {
     const selectedGame = gamesData.find((game) => game.id === gameId);
     setSelectedGame(selectedGame);
@@ -38,14 +42,13 @@ const HomePage = () => {
       .catch((error) => console.error('Error al cargar los datos de juegos de la galería:', error));
   }, []);
 
-  const getRandomRocaNumber = () => {
-    return Math.floor(Math.random() * 3) + 1;
-  };
+
+
   return (
     <div className="page-background">
-      <img src="/LOGO2.png" alt="Logo de Logros de Lagon" className="logo" />
+      <div className='logo-background'><img src="/LOGO2.png" alt="Logo de Logros de Lagon" className="logo" /></div>
       <div className="card">
-        <h1 id="diarios">LOGROS DIARIOS</h1>
+        <h1 id="diarios"><img src="/titulo1.png"></img></h1>
         {achievementsData.map((achievement) => (
           <div key={achievement.id} className="achievement">
             <div className="roca-image">
