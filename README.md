@@ -26,8 +26,5 @@ Puedes acceder a la aplicación en línea en [Logros de Lagon](https://logros-la
 
 ## ❓ Problemas y Soporte
 
-Si encuentras algún problema o tienes alguna pregunta sobre la aplicación, no dudes en [abrir un issue](https://github.com/tuusuario/tuproyecto/issues). 
+Si encuentras algún problema o tienes alguna pregunta sobre la aplicación, no dudes en [abrir un issue](https://github.com/Lagon93/Logros-Lagon/issues). 
 
-## 📄 Licencia
-
-Este proyecto está bajo la licencia [MIT](LICENSE).

@@ -41,13 +41,15 @@ const HomePage = () => {
 
     // Carga los datos de juegos desde un archivo JSON
     fetch('/games.json')
-      .then((response) => response.json())
-      .then((data) => {
-        setGamesData(data);
-        setCompletedGamesCount(data.length);
-      })
-      .catch((error) => console.error('Error al cargar los datos de juegos de la galería:', error));
-  }, []); // El efecto se ejecuta solo una vez, ya que la dependencia es un arreglo vacío
+    .then((response) => response.json())
+    .then((data) => {
+      // Filtra los juegos con platinum en true
+      const platinumGames = data.filter((game) => game.platinum === true);
+      setGamesData(platinumGames); // Actualiza gamesData con los juegos filtrados
+      setCompletedGamesCount(platinumGames.length); // Actualiza el recuento solo con los juegos filtrados
+    })
+    .catch((error) => console.error('Error al cargar los datos de juegos de la galería:', error));
+}, []); // El efecto se ejecuta solo una vez, ya que la dependencia es un arreglo vacío
 
   // Renderiza el contenido del componente
   return (
@@ -72,8 +74,10 @@ const HomePage = () => {
       <div className="card2">
         <h1 className="completed-heading">JUEGOS COMPLETADOS : {completedGamesCount}</h1>
         <div className="gallery">
-          {/* Mapea los datos de juegos y renderiza cada juego */}
-          {gamesData.map((game) => (
+          {/* Filtra los juegos con platinum en true y luego mapea */}
+    {gamesData
+      .filter((game) => game.platinum === true)
+      .map((game) => (
             <div key={game.gameName} className="gallery-item">
               <div
                 className="game-icon"
