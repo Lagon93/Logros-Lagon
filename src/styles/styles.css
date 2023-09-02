@@ -203,6 +203,24 @@ table img {
   background: linear-gradient(to right, #000, #555); /* Degradado de negro a gris */
 }
 
+/* Estilos scrollbar */
+.gallery::-webkit-scrollbar{
+  width: 1rem;
+}
+
+.gallery::-webkit-scrollbar-track{
+  width:3rem;
+}
+
+.gallery::-webkit-scrollbar-thumb{
+  background-image: url(../img/rock-scroll.png);
+  background-size:cover;
+  background-repeat: no-repeat;
+  width:2rem;
+  height: 14rem;
+}
+
+
 /* Estilos para mostrar la lista de logros cuando esté abierta */
 .game-achievements.open {
   display: block;
@@ -215,11 +233,12 @@ table img {
   display: flex;
   align-items: center;
   margin-bottom: 20px;
-  background: linear-gradient(to right, #000, #555); /* Degradado de negro a gris */
   border-radius: 8px; /* Bordes redondeados para cada elemento */
   padding: 10px 10px 10px 40px; /* Espaciado interno para el contenido */
+  background-image: url(../img/rock-achiev.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-
 
 .achievement img {
   width: 70px;
