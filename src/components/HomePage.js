@@ -62,8 +62,6 @@ const HomePage = () => {
     let timestampn= Number.parseInt(timestamp);
     var date = new Date(timestampn * 1000); // Multiplica el timestamp por 1000 para obtener milisegundos
     let dateh = new Date().toLocaleDateString("en-IN");
-    console.log(date === dateh);
-    console.log(date)
     return date === dateh;
 
   };
@@ -84,7 +82,6 @@ const HomePage = () => {
           {achievementsData.map((game) =>
             game.achievements.map((achievement) => {
               if (ComparaFecha(achievement.unlocktime)) {
-                console.log("esto que es");
                 // Renderizar contenido cuando game.completed sea verdadero
                 juegosD = true;
                 return (
@@ -126,7 +123,7 @@ const HomePage = () => {
                   className="game-icon"
                   onClick={() => handleGameClick(game.id)}
                 >
-                  <img src={game.image} alt={game.gameName} />
+                  <img src={game.image} alt={game.gameName} className="game-icon-img" />
                 </div>
                 <p>{game.gameName}</p>
               </div>

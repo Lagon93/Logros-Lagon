@@ -113,7 +113,6 @@ table img {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-color: #ce3737 !important;
   padding: 10px;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
@@ -133,7 +132,6 @@ table img {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-color: #ce3737 !important;
   padding: 10px;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
@@ -143,6 +141,9 @@ table img {
   text-align: center;
   overflow-y: scroll; /* Permite desplazamiento vertical si el contenido es demasiado largo */
   max-height: 80vh; 
+  background-image: url(../img/1000bg.png);
+  
+
 }
 
 .popup-header {
@@ -151,13 +152,13 @@ table img {
   align-items: center;
   margin-bottom: 10px;
   padding: 5px 10px;
-  background-color: rgba(255, 255, 255, 0.9);
-  border-top-left-radius: 8px;
-  border-top-right-radius: 8px;
+  position: sticky;
+
 }
 
 .popup-header h2 {
   margin: 0;
+
 }
 
 .popup-header button {
@@ -169,6 +170,11 @@ table img {
 
 .popup .achievement {
   margin-bottom: 15px;
+  margin-right: 1rem;
+  margin-left: 1rem;
+  background-image: url(../img/achievbg.png);
+  background-size: contain;
+  width: 26rem;
 }
 
 .popup .achievement img {
@@ -225,6 +231,15 @@ table img {
   height: 14rem;
 }
 
+body::-webkit-scrollbar{
+  display: none;
+}
+
+
+.logrosdiarios::-webkit-scrollbar{
+  display: none;
+}
+
 
 /* Estilos para mostrar la lista de logros cuando esté abierta */
 .game-achievements.open {
@@ -251,46 +266,9 @@ table img {
   margin-right: 20px;
 }
 
-/*Animacion del patito*/ 
-@keyframes myAnim {
-	0%,
-	100% {
-		transform: translateX(0%);
-		transform-origin: 50% 50%;
-	}
-
-	15% {
-		transform: translateX(-30px) rotate(-6deg);
-	}
-
-	30% {
-		transform: translateX(15px) rotate(6deg);
-	}
-
-	45% {
-		transform: translateX(-15px) rotate(-3.6deg);
-	}
-
-	60% {
-		transform: translateX(9px) rotate(2.4deg);
-	}
-
-	75% {
-		transform: translateX(-6px) rotate(-1.2deg);
-	}
-}
-
 .card {
   width: 100%; /* Ancho máximo de la card */
   /* Otros estilos de la card */
-}
-
-.pixel-art-image {
-  max-width: 100%; /* Tamaño máximo de la imagen */
-  height: auto; /* Permite que la imagen se ajuste proporcionalmente */
-  position: absolute;
-  top: 0;
-  left: 0;
 }
 
 /* Estilos para la imagen de la roca */
@@ -317,5 +295,10 @@ table img {
 .noLogros{
 overflow-y: hidden;
 max-height: 30rem;
-padding-right: 16px; 
+padding-left: 10rem; 
+margin-top: 2rem;
+}
+
+.game-icon-img{
+  border-radius: 10%;
 }

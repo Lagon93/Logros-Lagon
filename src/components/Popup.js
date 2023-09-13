@@ -6,7 +6,7 @@ const Popup = ({ game, onClose }) => {
     <div className={game && "popup open"} style={{ backgroundColor: game.backgroundColor }}>
       <div className="popup-header">
         <h2>{game.gameName}</h2>
-        <button onClick={onClose}>X</button>
+        <button onClick={onClose}><img src='/x.png' alt='X'></img></button>
       </div>
         {game.achievements.map((achievement) => (
           <div key={achievement.name} className="achievement">
