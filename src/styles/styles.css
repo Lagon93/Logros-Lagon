@@ -32,14 +32,19 @@
 .card {
   padding: 20px;
   background-size: cover;
-  max-width: 835px;
+  max-width: 860px;
   margin:auto;
   padding-bottom: 15rem;
   position: relative;
   background-image: url(../img/Forest\ Cliff\ Arbol.png);
   z-index: 2; /* Asegura que .card esté por encima de .card2 */
+  height:35rem;
 }
 
+.logrosdiarios{
+  overflow-y: scroll;
+  max-height: 20rem;
+}
 .gallery {
   display: flex;
   flex-wrap: wrap;
@@ -75,7 +80,7 @@
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   padding: 50px;
   padding-top: 8rem;
-  margin-top : -7rem!important;
+  margin-top: -7rem!important;
   margin:auto;
   max-width: 800px;
   max-height: 40rem;
@@ -276,7 +281,6 @@ table img {
 }
 
 .card {
-
   width: 100%; /* Ancho máximo de la card */
   /* Otros estilos de la card */
 }
@@ -300,4 +304,18 @@ table img {
 .roca-image img {
   width: 40px;
   height: 40px;
+}
+
+.verticalLine{ width: 2px;
+  background-color: #645555;
+  height: 145%;
+  float: left;
+  margin-left: 8rem;
+  padding-top: 3rem; 
+}
+
+.noLogros{
+overflow-y: hidden;
+max-height: 30rem;
+padding-right: 16px; 
 }

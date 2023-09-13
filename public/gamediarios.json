@@ -1,0 +1,3254 @@
+[
+    {
+        "id": "1086940",
+        "name": "Baldur\u0027s Gate 3",
+        "icon": "http://media.steampowered.com/steamcommunity/public/images/apps/1086940/d866cae7ea1e471fdbc206287111f1b642373bd9.jpg",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg",
+        "platinum": false,
+        "achievements": [
+            {
+                "id": "BG3_Quest01",
+                "name": "Descent From Avernus",
+                "description": "Take control of the nautiloid and escape the Hells.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/0cb31fd9ec036550a374aa702a37464a98da3bfa.jpg",
+                "unlocktime": "1692638452"
+            },
+            {
+                "id": "BG3_Quest02",
+                "name": "The Plot Thickens",
+                "description": "",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/628cdbbfd2e731735e4817252ce6633bf3bcd8ed.jpg",
+                "unlocktime": "1693689393"
+            },
+            {
+                "id": "BG3_Quest09",
+                "name": "Roleplayer",
+                "description": "Complete ten background goals in a single playthrough - you are one with your character.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/9c1231f530788d9aa21e1a858fbb9e85e0cb64f8.jpg",
+                "unlocktime": "1693164195"
+            },
+            {
+                "id": "BG3_Quest10",
+                "name": "Bedrolls and Breakfast",
+                "description": "Take four full Long Rests in a single playthrough - adventuring\u0027s tiring work.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/47daa8cf213809978d0f2ba9b514942c864ce452.jpg",
+                "unlocktime": "1692724619"
+            },
+            {
+                "id": "BG3_Quest11",
+                "name": "Expand Your Mind",
+                "description": "",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/279a9b7a2d50b65b6b30a939bbceffd556bb10ff.jpg",
+                "unlocktime": "1693075521"
+            },
+            {
+                "id": "BG3_Quest12",
+                "name": "Dig for Victory",
+                "description": "Dig up five buried chests in a single playthrough - treasure! ",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/0dfd51a7ae1c5e122d1b46051d23234f5c5f681d.jpg",
+                "unlocktime": "1693143338"
+            },
+            {
+                "id": "BG3_Quest13",
+                "name": "No Penny Required",
+                "description": "Successfully use Detect Thoughts to pry into someone\u0027s thoughts. ",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/c77588e8a25741098ac71ae64f4b08d84e357310.jpg",
+                "unlocktime": "1693333299"
+            },
+            {
+                "id": "BG3_Quest14",
+                "name": "Escapologist",
+                "description": "Break out of prison after being arrested - aren\u0027t you daring?",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/c182dd661aaf764f1eb3c008c9c9d8720540c19e.jpg",
+                "unlocktime": "1692899958"
+            },
+            {
+                "id": "BG3_Quest18",
+                "name": "You Have Two Hands for a Reason",
+                "description": "",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/8418d590e2386af37de617f855acce42c1b9d1bc.jpg",
+                "unlocktime": "1693256924"
+            },
+            {
+                "id": "BG3_Quest20",
+                "name": "Forged in Blood and Fire",
+                "description": "",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/a00e6ad2d3d84c4649654ce74a82cc2fa96cf3cf.jpg",
+                "unlocktime": "1693328591"
+            },
+            {
+                "id": "BG3_Quest23",
+                "name": "Taking Blood",
+                "description": "",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/cc1a63fce03ab5580530c8efcef4a86a46708a39.jpg",
+                "unlocktime": "1693592660"
+            },
+            {
+                "id": "BG3_Quest29",
+                "name": "Action Surge",
+                "description": "Perform five attacks in one turn. Your enemies won\u0027t know what hit them (literally).",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/701e6a0e4e6cdc8c1b246963bf81d51b05f08974.jpg",
+                "unlocktime": "1692696496"
+            },
+            {
+                "id": "BG3_Quest33",
+                "name": "A Grym Fate",
+                "description": "",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/9566097d88eea8346c15e9287b6747738966b71b.jpg",
+                "unlocktime": "1693327428"
+            },
+            {
+                "id": "BG3_Quest42",
+                "name": "Shove Off",
+                "description": "Kill a creature with falling damage.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/fc95da156e92c9d6f0955236d77bbe07e36f06e9.jpg",
+                "unlocktime": "1692717711"
+            },
+            {
+                "id": "BG3_Quest45",
+                "name": "Fetch Quest",
+                "description": "Play fetch with Scratch - the best boy in the Realms.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/86a026938f983aa2e170f106e5b7d9eee3b7b3e7.jpg",
+                "unlocktime": "1692812235"
+            },
+            {
+                "id": "BG3_Quest46",
+                "name": "Repairing the Weave",
+                "description": "",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/f202f039116ecee22d8aaacee24370a55f1983dd.jpg",
+                "unlocktime": "1693606843"
+            },
+            {
+                "id": "BG3_Quest47",
+                "name": "The Lich-Queen\u0027s Wrath",
+                "description": "",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/7944771c84a4ee57b9332b25dfeb9a7c0dea1cb8.jpg",
+                "unlocktime": "1693607253"
+            },
+            {
+                "id": "BG3_Quest50",
+                "name": "Just a Nibble",
+                "description": "",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1086940/884c0f57453132979551b5053fd3f03bb8176038.jpg",
+                "unlocktime": "1693002884"
+            }
+        ]
+    },
+    {
+        "id": "1353300",
+        "name": "Idle Slayer",
+        "icon": "http://media.steampowered.com/steamcommunity/public/images/apps/1353300/4a2e0701c61812a2895147b9c992c72c31ca46d7.jpg",
+        "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1353300/header.jpg",
+        "platinum": false,
+        "achievements": [
+            {
+                "id": "achievement_10000_slayed",
+                "name": "10,000 Slayed",
+                "description": "Slay 10,000 enemies.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/165e756cc02287207f2dd78f8346bacb98c57e33.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_1000_slayed",
+                "name": "1,000 Slayed",
+                "description": "Slay 1,000 enemies.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/83aed05cb159d0737acc84aebf945fdcdf413096.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_1000_slayer_points",
+                "name": "1,000 Slayer Points",
+                "description": "Get a lifetime total of 1,000 Slayer Points.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/34f899ef1ed94f98f7983ee84f7b1c934c62ba69.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_100_chest_hunts",
+                "name": "A Hundred Chest Hunts",
+                "description": "Play 100 Chest Hunts.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/07fc15807f0e8eed9d468d472592fbbd6d45ec0e.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_100_levels",
+                "name": "100 Levels",
+                "description": "Buy 100 levels all at once of an Equipment.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/3f63332569180d0714ff9ea93b9d4b4ca2423fdc.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_100_millions",
+                "name": "100 Millions",
+                "description": "Have 100 M Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/346dae7989f8291d7b01e02f66966f39b554a83e.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_100_nonillions",
+                "name": "100 Nonillions",
+                "description": "Have 100 No Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/0e08b7ded60335aa57ad7c5d7ce54aa34753e03d.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_100_quintillions",
+                "name": "100 Quintillions",
+                "description": "Have 100 Qi Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/51f9f59ced49129378b5b7cd8c00a197883d1e46.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_100_septillions",
+                "name": "100 Septillions",
+                "description": "Have 100 Sp Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/9da210b18b1edce48bad19dfa76feb811bf00253.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_100_slayed",
+                "name": "100 Slayed",
+                "description": "Slay 100 enemies.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/cf247d15e4cab863bce3ae1d770401053364344a.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_100_slayer_points",
+                "name": "100 Slayer Points",
+                "description": "Get a lifetime total of 100 Slayer Points.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/9511c3f742f5485f9800661867b59f162d3ef13f.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_100_tredecillions",
+                "name": "100 Tredecillions",
+                "description": "Have 100 Td Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/028cdbe163fe87d576db40b23603606b594787bc.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_100_trillions",
+                "name": "100 Trillions",
+                "description": "Have 100 T Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/4d0aa224d0145f28ca058e1af35bdf0189a60f93.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_100_undecillions",
+                "name": "100 Undecillions",
+                "description": "Have 100 Ud Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/d9f1d6d51b4f562040df60d19ac32b8a4dee1d24.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_10k_coins",
+                "name": "10K Coins",
+                "description": "Pick up 10,000 Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/f8d0555255adf2c3517379f076bb81b4b73b0021.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_10_billions",
+                "name": "10 Billions",
+                "description": "Have 10 B Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/e8e2706f0858515671c9b7723f857d090a210de3.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_10_chests",
+                "name": "10 Chests",
+                "description": "Open 10 Chests in a row on the Chest Hunt Minigame.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/2a8109c831e302f40833680e84d555fe0eefcafe.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_10_chest_hunts",
+                "name": "Ten Chest Hunts",
+                "description": "Play 10 Chest Hunts.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/d05b6f2d24bbca203923d577f5d109e2ccb7be5e.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_10_decillions",
+                "name": "10 Decillions",
+                "description": "Have 10 De Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/f392db2aec7d97fd6e399ef5bf0fa2b16110974f.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_10_duodecillions",
+                "name": "10 Duodecillions",
+                "description": "Have 10 Dd Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/5d1b09ec1aee1f6a431cb737505b27028159079d.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_10_levels",
+                "name": "10 Levels",
+                "description": "Buy 10 levels all at once of an Equipment.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/d0672429d68585eab37634a1e964f7199a3d8403.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_10_octillions",
+                "name": "10 Octillions",
+                "description": "Have 10 Oc Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/1119deb3b55bf3fa66388ae644a93c0a64e6f4f5.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_10_quadrillions",
+                "name": "10 Quadrillions",
+                "description": "Have 10 Qa Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/74870ed0d6de8cdb6f9c0e53285a79b71d90ebe5.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_10_quattuordecillions",
+                "name": "10 Quattuordecillions",
+                "description": "Have 10 Qt Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/8405938e4e04a62497cd8e0bec8a3b929d15305b.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_10_sextillions",
+                "name": "10 Sextillions",
+                "description": "Have 10 Sx Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/f743779ba1a7c947ec9bcec1edcf97b424f32abd.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_10_slayer_points",
+                "name": "10 Slayer Points",
+                "description": "Get a lifetime total of 10 Slayer Points.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/332de8ee95ba9a9e7c88c89b2212cce567e33d64.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_10_thousands",
+                "name": "10 Thousands",
+                "description": "Have 10 K Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/1652bedcd005f8bbb139434438c10338b5768c28.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_15_chests",
+                "name": "15 Chests",
+                "description": "Open 15 Chests in a row on the Chest Hunt Minigame.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/ae0a93e262600eb0eff2936f8166681bda5a6f24.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_175k_coins",
+                "name": "175K Coins",
+                "description": "Pick up 175,000 Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/646932fd550437c5fe3c3284b56b85ceb6db3dff.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_1_hundred",
+                "name": "1 Hundred",
+                "description": "Have 100 Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/02afb8e5f1d25ffeeae01edc18c43eb60703dc3c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_1_million",
+                "name": "1 Million",
+                "description": "Have 1 M Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/aa5dfcc0dd7cefd301be2ebb2e1a8351bff2d5c8.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_1_nonillion",
+                "name": "1 Nonillion",
+                "description": "Have 1 No Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/4970ba4bf630855f92696751d2a246782bc638c0.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_1_quindecillion",
+                "name": "1 Quindecillion",
+                "description": "Have 1 Qd Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/882e4a4028db58652d74da01390032c26aa2f93f.jpg",
+                "unlocktime": "1694185303"
+            },
+            {
+                "id": "achievement_1_quintillion",
+                "name": "1 Quintillion",
+                "description": "Have 1 Qi Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/73763392963e7f556fc3eea0ba96bc799bf62cf4.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_1_septillion",
+                "name": "1 Septillion",
+                "description": "Have 1 Sp Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/4d0af4d991d23e1574cd858e4a7bda946e5bad7e.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_1_tredecillion",
+                "name": "1 Tredecillion",
+                "description": "Have 1 Td Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/5ba88a2f493f31d1918c4e7cd48762bcc62dec67.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_1_trillion",
+                "name": "1 Trillion",
+                "description": "Have 1 T Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/89dcc8e2b2a7dfd48a86c33c1912fa3fa3805ffa.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_1_undecillion",
+                "name": "1 Undecillion",
+                "description": "Have 1 Ud Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/bf37471af8c56d7677263b238cb1929a052507a8.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_200_levels",
+                "name": "200 Levels",
+                "description": "Buy 200 levels all at once of an Equipment.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/ba522376ec80e4aa558ef332c2f7f4489051dda5.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_200_slayer_points",
+                "name": "200 Slayer Points",
+                "description": "Get a lifetime total of 200 Slayer Points.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/317bd558d06051db9532ed15aa51a73ae8082f53.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_20_chests",
+                "name": "20 Chests",
+                "description": "Open 20 Chests in a row on the Chest Hunt Minigame.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/29dc47bc938afc48455d1d6b349b40c2619930c1.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_25000_slayed",
+                "name": "25,000 Slayed",
+                "description": "Slay 25,000 enemies.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/80c8e8fbc689c82e8d32922cb175e306c2f075d3.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_2500_slayer_points",
+                "name": "2,500 Slayer Points",
+                "description": "Get a lifetime total of 2,500 Slayer Points.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/5c9a90cb10ab905edb461d8b442dc9d9c505d888.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_25_slayer_points",
+                "name": "25 Slayer Points",
+                "description": "Get a lifetime total of 25 Slayer Points.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/9be9cd84338e0060caed038aa8b696c50579db4e.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_300_levels",
+                "name": "300 Levels",
+                "description": "Buy 300 levels all at once of an Equipment.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/d605916f3bf66d6fd00916bf576d7c2a8cdc1960.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_400_levels",
+                "name": "400 Levels",
+                "description": "Buy 400 levels all at once of an Equipment.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/dbb96c5452e663ffb7d68de518262d009581b978.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_50000_slayed",
+                "name": "50,000 Slayed",
+                "description": "Slay 50,000 enemies.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/b5185d58d0b9c8628b81e520e65ed4a9ddb1cfd4.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_5000_slayed",
+                "name": "5,000 Slayed",
+                "description": "Slay 5,000 enemies.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/5fcca1ce591d01a68b9fbeb497d04af3f309348a.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_500k_coins",
+                "name": "500K Coins",
+                "description": "Pick up 500,000 Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/9e231062ad7e80e86ee403a5374886553f73ca6d.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_500_levels",
+                "name": "500 Levels",
+                "description": "Buy 500 levels all at once of an Equipment.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/c5496c5304446d89cda7c3e09985c1584d01216c.jpg",
+                "unlocktime": "1691926864"
+            },
+            {
+                "id": "achievement_500_slayed",
+                "name": "500 Slayed",
+                "description": "Slay 500 enemies.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/f484a7e0515f7703e0cf2663521f0502d5e7a114.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_500_slayer_points",
+                "name": "500 Slayer Points",
+                "description": "Get a lifetime total of 500 Slayer Points.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/c46343ae300ddf52f847001cc23ad7d46f896a62.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_50k_coins",
+                "name": "50K Coins",
+                "description": "Pick up 50,000 Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/980a8dca5429016914353a370f4bdb21ff69eb49.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_50_levels",
+                "name": "50 Levels",
+                "description": "Buy 50 levels all at once of an Equipment.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/d55dd4c56f59adec49e653dba746428891e199ba.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_50_slayer_points",
+                "name": "50 Slayer Points",
+                "description": "Get a lifetime total of 50 Slayer Points.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/3fd8cf54c157c18d0135b9e1137eb0f6d3d219b2.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_5k_coins",
+                "name": "5K Coins",
+                "description": "Pick up 5,000 Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/19f8d80045be31870c0a2cdf700c79c17e5f1ef3.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_5_chests",
+                "name": "5 Chests",
+                "description": "Open 5 Chests in a row on the Chest Hunt Minigame.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/2b46f74762b92dd1f0da11209e0d8e000e146406.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_600_levels",
+                "name": "600 Levels",
+                "description": "Buy 600 levels all at once of an Equipment.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/897f5db2a4a904b14f2b362cf16ffca3574d8f74.jpg",
+                "unlocktime": "1693410278"
+            },
+            {
+                "id": "achievement_60_days",
+                "name": "60 Days",
+                "description": "Play the game for 60 days.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/ada3cf43896edac785d79f1ae8f2232ea837bc65.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_700_levels",
+                "name": "700 Levels",
+                "description": "Buy 700 levels all at once of an Equipment.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/3c59e209ff9920a6c184a5212a1898b1dded4ae5.jpg",
+                "unlocktime": "1693855700"
+            },
+            {
+                "id": "achievement_90_days",
+                "name": "90 Days",
+                "description": "Play the game for 90 days.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/a58f62e87663914ddcb245a2584e689ec78fc3e3.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_achievement_hunter",
+                "name": "Achievement Hunter",
+                "description": "Unlock 250 Achievements.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/66d6813de5bed634308eb009b83254369f89310e.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_achieve_the_hardest",
+                "name": "Achieve The Hardest",
+                "description": "Unlock 200 Achievements.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/ba18f88ac7359b2fa2f7ce634447d4dca8fc6891.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_alter_dimension_income",
+                "name": "Alter Dimension Income",
+                "description": "Get 10 No Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/fcc4ecb6af64fe220bd2c3172dbe28fecc289567.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_always_hit_it_first",
+                "name": "Always Hit It First",
+                "description": "Slay 100 Mimics.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/bd2ab4c117ebdd06ce7d1cb03dfb10536685e0ec.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_amazing_armor",
+                "name": "Amazing Armor",
+                "description": "Level up your Armor up to level 250.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/948a019ad4b41900924e078915c7cec0c72c8e7e.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_amazing_axe",
+                "name": "Amazing Axe",
+                "description": "Level up your Axe up to level 250.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/1c17077df6c26c7396a6991e9d29f29f36da6327.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_amazing_book",
+                "name": "Amazing Book",
+                "description": "Level up your Spellbook up to level 250.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/73b869a5fd5d836b9b54af3611e7f80ee6b43f81.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_amazing_boots",
+                "name": "Amazing Boots",
+                "description": "Level up your Boots up to level 250.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/cec7be34d430a3bcb9c484456299dcde5472a8ab.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_amazing_bow",
+                "name": "Amazing Bow",
+                "description": "Level up your Bow up to level 250.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/dc5525e297adb267fd6130015c700f87fe739ca1.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_amazing_dagger",
+                "name": "Amazing Dagger",
+                "description": "Level up your Dagger up to level 250.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/4d92d519dd2b275ffb69258550817c5ba459163c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_amazing_gloves",
+                "name": "Amazing Gloves",
+                "description": "Level up your Gloves up to level 250.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/13d9ac6f589053410e6913f92c89b8451f3e0cad.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_amazing_helmet",
+                "name": "Amazing Helmet",
+                "description": "Level up your Helmet up to level 250.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/ef0c9c886083f491b7a89b95d3181d0b671e1ef9.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_amazing_necklace",
+                "name": "Amazing Necklace",
+                "description": "Level up your Necklace up to level 250.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/bf4d44b7617823a7f0c5769c9749126c182d7251.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_amazing_ring",
+                "name": "Amazing Ring",
+                "description": "Level up your Ring up to level 250.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/4d4ed0d92a4d0deb605efd0385979ac7c6f1eba8.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_amazing_shield",
+                "name": "Amazing Shield",
+                "description": "Level up your Shield up to level 250.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/15c20d03c5249d925906dfde353905063c2d389b.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_amazing_spirit",
+                "name": "Amazing Spirit",
+                "description": "Level up your Spirit up to level 250.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/20d34b4d804953504a0871283fe17ce323f882ce.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_amazing_staff",
+                "name": "Amazing Staff",
+                "description": "Level up your Staff up to level 250.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/18a6a27065d12a0c0b72b3718236e553557c1bed.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_amazing_sword",
+                "name": "Amazing Sword",
+                "description": "Level up your Sword up to level 250.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/3a72c58ed03ba6264294114581d9a3542d6b3319.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_and_beyond",
+                "name": "And Beyond",
+                "description": "Ascend for the first time.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/5345b603ef04f51bf1db354f70bf4bcde0fbdb21.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_and_even_beyond",
+                "name": "And Even Beyond",
+                "description": "Ultra Ascend for the first time.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/e6bed57d2bd744ca8344c91b3f42538e21de9383.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_angel",
+                "name": "Angel",
+                "description": "Have 5 Divinities active.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/040ca8ee1f8266da3a3d4b23f07a5044bed4793c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_archangel",
+                "name": "Archangel",
+                "description": "Have 10 Divinities active.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/7d9e91254b3f71467b1d7e57c720e1494efb4fc1.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_army_veteran_gamer",
+                "name": "Army Veteran Gamer",
+                "description": "Unlock 300 Achievements.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/ae047b6178ceef01a9ec5d0731fa90e0074c45a1.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_artificer",
+                "name": "Artificer",
+                "description": "Craft a total of 50 Temporary Items.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/93ef91afa4db9b383cf781a64eebc642d47d6b97.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_ascension_upgrades_i",
+                "name": "Ascension Upgrades I",
+                "description": "Buy 4 Ascension Upgrades.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/733dc2a1d47909a2cfb6964c1bf7c9c80653b86c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_ascension_upgrades_ii",
+                "name": "Ascension Upgrades II",
+                "description": "Buy 10 Ascension Upgrades.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/add136c63cd17c22701db518a801e93cf8483564.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_ascension_upgrades_iii",
+                "name": "Ascension Upgrades III",
+                "description": "Buy 25 Ascension Upgrades.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/5b94af91bfce31bc5f3613e4661fb91d2a33a896.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_ascension_upgrades_iv",
+                "name": "Ascension Upgrades IV",
+                "description": "Buy 50 Ascension Upgrades.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/994fc63ce9ef998acbddd55b9b143ef4a365ac46.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_ascension_upgrades_ix",
+                "name": "Ascension Upgrades IX",
+                "description": "Buy 500 Ascension Upgrades.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/55d2182e1800dd7edaee42b2eebdfd78bf921ee0.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_ascension_upgrades_v",
+                "name": "Ascension Upgrades V",
+                "description": "Buy 75 Ascension Upgrades.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/7da367e57337b3b8c02f4463f829da0d416d226e.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_ascension_upgrades_vi",
+                "name": "Ascension Upgrades VI",
+                "description": "Buy 100 Ascension Upgrades.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/a1f9571b066a54b653dcece90f38711e5e0569e3.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_ascension_upgrades_vii",
+                "name": "Ascension Upgrades VII",
+                "description": "Buy 150 Ascension Upgrades.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/84c9599b8a52b63c9aedb41b4e41e9ebd557f330.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_ascension_upgrades_viii",
+                "name": "Ascension Upgrades VIII",
+                "description": "Buy 250 Ascension Upgrades.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/825ed4acf322af28d885090b2010a5341e87a56a.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_a_bonus_pay",
+                "name": "A Bonus Pay",
+                "description": "Get 100 Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/a8f9c67c46acfc461148e975adcb3404737882e4.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_a_continent_income",
+                "name": "A Continent Income",
+                "description": "Get 1 Qa Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/b05d3e6b29dfd4962b2622d8fa8aea4fcb35fd7d.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_a_first_world_income",
+                "name": "A First World Income",
+                "description": "Get 10 T Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/bee18c9b9ce562fb1790325522bbe482af16396b.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_a_galactic_group_income",
+                "name": "A Galactic Group Income",
+                "description": "Get 99,9 Sx Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/69e9ebe5800600c47a756e048c37bbda18512014.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_a_galactic_income",
+                "name": "A Galactic Income",
+                "description": "Get 1 Sx Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/ae7300ca002f9989909e794e81c10dd6bce23c8b.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_a_group",
+                "name": "A Group",
+                "description": "Select 8 different Characters.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/bbd5f77873c8d4b678fed6c4a1e7e9459d251713.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_a_heritage",
+                "name": "A Heritage",
+                "description": "Get 100 K Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/770a8a2593f8d2ecfc462f231f80d8c137ac4905.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_a_hypercumulus_income",
+                "name": "A Hypercumulus Income",
+                "description": "Get 1 Oc Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/b547871307aeaea78d0f90ba2d95077a7023ba79.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_a_loan",
+                "name": "A Loan",
+                "description": "Get 10 K Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/4ddfeb0d1a8510b3d22b2de12996f6fd8941674a.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_a_lottery_win",
+                "name": "A Lottery Win",
+                "description": "Get 1 M Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/92d1d7dee856edf54f8b2a3d7169794db8d28e34.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_a_lovely_place",
+                "name": "A Lovely Place",
+                "description": "Visit Idle Slayer\u0027s Subreddit.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/d13579b7c4bbbb0575cfc14c6fd3d22f3b358ea0.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_a_public_work",
+                "name": "A Public Work",
+                "description": "Get 100 M Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/ff60b33c2fe2a33d108f42f3eac4c3f843eba588.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_a_salary",
+                "name": "A Salary",
+                "description": "Get 1,000 Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/fde082f6938d5ee477b90dd75eb64805a751cfcf.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_a_solar_system_income",
+                "name": "A Solar System Income",
+                "description": "Get 10 Qi Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/77ace26ea38f8172c5b2a1389f512b56a04c6db6.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_a_supercluster_income",
+                "name": "A Supercluster Income",
+                "description": "Get 10 Sp Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/a1c69c9deaf31cea92c5469b6a563d1720c2e0d0.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_a_team",
+                "name": "A Team",
+                "description": "Select 5 different Characters.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/f8e316725fb0e5f6223aa99c1ee4396efd6dee4e.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_a_third_world_income",
+                "name": "A Third World Income",
+                "description": "Get 100 B Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/6c3877c713b207231741b39600929285ef6e0b58.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_a_tip",
+                "name": "A Tip",
+                "description": "Get 10 Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/2c32ebd763020efb496d9f6b2004f3d2325890a3.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_a_universal_income",
+                "name": "A Cosmic Income",
+                "description": "Get 99,9 Oc Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/e3d6e37d5ea95f3e845e48022776c5b0c91ba19b.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_a_warm_welcome",
+                "name": "A Warm Welcome",
+                "description": "Get 1 coin.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/4d6b1ec2dc39471ce6b911165d5bbff016b4a0b8.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_a_world_income",
+                "name": "A World Income",
+                "description": "Get 100 Qa Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/e9ec387d9b1dc7c21c4325d4a5b4a132a0805b5a.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_back_where_it_all_begins",
+                "name": "Back Where It All Begins",
+                "description": "Ultra Ascend 3 times.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/540b62f7c66c36e0a0519b377ac42d200ba46cc9.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_banker",
+                "name": "Banker",
+                "description": "Get x40 Coin value from Random Events.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/bd9c0cbcdeadfd2c324ce5622870d00b315708d5.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_behind_the_scenes",
+                "name": "Behind The Scenes",
+                "description": "View the Credits.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/53ea69b442accec003f78a7667c168c8550cf8d5.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_best_yield",
+                "name": "Best Yield",
+                "description": "Double your offline earnings 250 times.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/a0c5e6fa8b73fdcf850a91792a6ab9390e5b10df.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_blue_streak",
+                "name": "Blue Streak",
+                "description": "Use the Boost 10 times.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/941b1651e7891d9ed68074403f1a9b94cbe644dd.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_boosted_boost",
+                "name": "Boosted Boost",
+                "description": "Use the Boost while using the Boost.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/0d5ee861c150b022dd493ed9dc7f82b4aa639784.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_bow_average",
+                "name": "Bow Average",
+                "description": "Slay 1,000 enemies with the Bow.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/5376976439aac6b68845b71ce83ab0a4e6dbd37b.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_bow_expert",
+                "name": "Bow Expert",
+                "description": "Slay 5,000 enemies with the Bow.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/2f4f8f90e97e34b5a96a0b2d770815b62d5af50f.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_bow_novice",
+                "name": "Bow Novice",
+                "description": "Slay 100 enemies with the Bow.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/c98382c6d5a80340963130de90a512e4a849b60a.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_bow_pro",
+                "name": "Bow Pro",
+                "description": "Slay 10,000 enemies with the Bow.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/4922115d814c42475b0eba6ebadf3f09212d3c03.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_bulk_buy",
+                "name": "Bulk Buy",
+                "description": "Buy 100 Upgrades all at once.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/45c76834c0c4e216e60deceec6e11f6a53bf355c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_carry_me",
+                "name": "Carry Me",
+                "description": "Collect the maximum amount possible of a Material.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/a7da31f9909e831fcd56c49d2c8d0b6c56054a17.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_chaos_control",
+                "name": "Chaos Control",
+                "description": "Pick up 150 Emeralds.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/3b56fcf8c82df34036b1f7ad15de9afeaa252562.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_charon",
+                "name": "Charon",
+                "description": "Get a x40 Souls multiplier from Random Events.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/4bbd181cbe429897398a2d060709e88786fe05f4.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_cherub",
+                "name": "Cherub",
+                "description": "Have 15 Divinities active.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/d4e10c0485c214d61ede646e90f12c07f7ec55f1.jpg",
+                "unlocktime": "1692095137"
+            },
+            {
+                "id": "achievement_coin_master",
+                "name": "Coin Master",
+                "description": "Pick up 100,000 Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/cde21caa16110c0fb69a47772a813e6c8de84c91.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_collector",
+                "name": "Collector",
+                "description": "Unlock 100 Achievements.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/a4c0ea91c2b928d0634c17d60d6f147c103a94ba.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_compulsive_gambler",
+                "name": "Compulsive Gambler",
+                "description": "Trigger 4,000 Random Boxes.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/ea772fd0a011c72ca4e59d251153dc8121cc3238.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_current_job",
+                "name": "Current Job",
+                "description": "Complete 100 Daily Quests.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/c7a1930277ccec621a2d024fffa8d2361b6a291e.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_daily_effort",
+                "name": "Daily Effort",
+                "description": "Complete 15 Daily Quests.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/66f368924f6e5760fa4b64ea421c60ad4b29bc03.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_daily_quests",
+                "name": "Daily Quests",
+                "description": "Unlock the Daily Quests.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/4f75837cbc4339a650d3d068bec20cef27c6e742.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_daily_quest_master",
+                "name": "Daily Quest Master",
+                "description": "Complete 200 Daily Quests.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/d386d0db6289b15c47b583d9cdb8c4eec5895f3b.jpg",
+                "unlocktime": "1693763899"
+            },
+            {
+                "id": "achievement_defense_is_the_best_offense",
+                "name": "Defense Is The Best Offense",
+                "description": "Slay 25 Mimics.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/bdc9eb359c468a79a1547fb7dcee4219e793e0db.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_divine_income",
+                "name": "Divine Income",
+                "description": "Get 10 De Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/f72f526a3b074a0b729aa1c9fbe34da22f92a6a0.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_divinities",
+                "name": "Divinities",
+                "description": "Unlock Divinities.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/aa31f6b39ebe36d2a0326f4f6292970bddc0791f.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_dodge_this_you_bastard",
+                "name": "Dodge This You Bastard!",
+                "description": "Use Rage Mode 10 times.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/6b972882c2fcfb0fa894cec6c051e08c5678da35.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_doubler",
+                "name": "Doubler",
+                "description": "Have 2 multipliers active at the same time.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/896800b2b6a0a572634ed9ba13f80f16384f72d8.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_easy_task",
+                "name": "Easy Task",
+                "description": "Unlock 50 Achievements.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/d56c0096aedb2c6e79aa444cd37d01e7b91baecb.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_efficient_yield",
+                "name": "Efficient Yield",
+                "description": "Double your offline earnings 25 times.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/4543c82aa813408c1a954ec79628f0f6439f50a6.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_emerald_ingot",
+                "name": "Emerald Ingot",
+                "description": "Pick up 10,000 Emeralds.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/76fa087ebe0080b41da07e2f721981ecc8a182fb.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_emerald_splash",
+                "name": "Emerald Splash",
+                "description": "Pick up 50 Emeralds.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/27b9715f8cf7814b5bcc63d6e5a28a0d89fc6dd9.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_excellent_armor",
+                "name": "Excellent Armor",
+                "description": "Level up your Armor up to level 200.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/363f03418fae68ac5bd117e117ce470908d236a4.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_excellent_axe",
+                "name": "Excellent Axe",
+                "description": "Level up your Axe up to level 200.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/7b1208bea507f6640e8a8edc39bea80aa3542f83.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_excellent_book",
+                "name": "Excellent Book",
+                "description": "Level up your Spellbook up to level 200.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/deae0ee6110d766d4ce861f9291170c6f5e2004f.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_excellent_boots",
+                "name": "Excellent Boots",
+                "description": "Level up your Boots up to level 200.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/341654b43e33325ffa62d44b002f80b863b32db8.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_excellent_bow",
+                "name": "Excellent Bow",
+                "description": "Level up your Bow up to level 200.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/7a09903acd93f5353e1771004b28f24b7f135e1a.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_excellent_cape",
+                "name": "Excellent Cape",
+                "description": "Level up your Cape up to level 200.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/612e2e773a37df05209bd13ee2af39fa380f0bf0.jpg",
+                "unlocktime": "1694417025"
+            },
+            {
+                "id": "achievement_excellent_dagger",
+                "name": "Excellent Dagger",
+                "description": "Level up your Dagger up to level 200.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/e09fdb01db00bd6246599ece3afd26b97310dd8f.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_excellent_gloves",
+                "name": "Excellent Gloves",
+                "description": "Level up your Gloves up to level 200.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/aca0dc401df072df8728751a3390c8d1e7bcc4a2.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_excellent_helmet",
+                "name": "Excellent Helmet",
+                "description": "Level up your Helmet up to level 200.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/b5d8b91755104149f117f0383ef9f07c235a5d69.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_excellent_necklace",
+                "name": "Excellent Necklace",
+                "description": "Level up your Necklace up to level 200.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/62085bf191b6561aa1c699d6a4c790abaab3fddd.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_excellent_ring",
+                "name": "Excellent Ring",
+                "description": "Level up your Ring up to level 200.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/74c31e83e6e02054c4f2ef65a9d10f421830e3fe.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_excellent_shield",
+                "name": "Excellent Shield",
+                "description": "Level up your Shield up to level 200.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/012a70a6abf9ce33324a8bb7c5c0a75fd8a0a9a5.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_excellent_spirit",
+                "name": "Excellent Spirit",
+                "description": "Level up your Spirit up to level 200.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/7a4c09691b75535dc99368f3b38390239cb3142b.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_excellent_staff",
+                "name": "Excellent Staff",
+                "description": "Level up your Staff up to level 200.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/e8d912aa87d0b52806944e52c4fb685b679bf0e3.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_excellent_sword",
+                "name": "Excellent Sword",
+                "description": "Level up your Sword up to level 200.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/2333b030e8596a62ad219bba7089e1f5e442ad7e.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_extremely_lucky",
+                "name": "Extremely Lucky",
+                "description": "You\u0027ve been extremely lucky with the Random Box.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/39b00898c05b9311aea675844f988615259ca083.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_faster_than_88_mph",
+                "name": "Faster Than 88 MPH",
+                "description": "Use the Boost 2,500 times.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/cf44ecbe7cdc918743df7ad620ce8bec1a1bd58c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_feeling_dizzy",
+                "name": "Feeling Dizzy",
+                "description": "Use 25 Portals.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/c53c5e79072028dc50b42647893c15946ca0adf0.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_feeling_lost",
+                "name": "Feeling Lost",
+                "description": "Visit Idle Slayer\u0027s Wiki.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/e15b3afa17586e2f78825ffe6a83aacbce3a0677.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_first_steps",
+                "name": "First Steps",
+                "description": "Craft a total of 5 Temporary Items.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/607c2927b383f52acf0218640aadaeeca2d40167.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_for_science",
+                "name": "For Science",
+                "description": "Use 10 Portals.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/c53c5e79072028dc50b42647893c15946ca0adf0.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_get_lucky",
+                "name": "Get Lucky",
+                "description": "Trigger 2,000 Random Boxes.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/4da623644263414ebb62a6e00a1f57932edc2ef1.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_glados_would_be_happy",
+                "name": "GLaDOS Would Be Happy",
+                "description": "Use 250 Portals.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/c53c5e79072028dc50b42647893c15946ca0adf0.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_good_armor",
+                "name": "Good Armor",
+                "description": "Level up your Armor up to level 50.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/54c9aca068858edfa85d4fb3b312516fe464935a.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_good_axe",
+                "name": "Good Axe",
+                "description": "Level up your Axe up to level 50.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/ba79297b57b60304daa3985bbba2c9979a53ab1d.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_good_book",
+                "name": "Good Book",
+                "description": "Level up your Spellbook up to level 50.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/5c2534dd3ee5cf041728b167e614849f94361826.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_good_boots",
+                "name": "Good Boots",
+                "description": "Level up your Boots up to level 50.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/2bcf48379a65800b9eb2fa6198e3052ba98d9479.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_good_bow",
+                "name": "Good Bow",
+                "description": "Level up your Bow up to level 50.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/8e182c8e296f9f2b762764f94db7e8322c676184.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_good_cape",
+                "name": "Good Cape",
+                "description": "Level up your Cape up to level 50.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/e1b3bb36c143d781607fb6d240a17242d8e4cb36.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_good_claw",
+                "name": "Good Claw",
+                "description": "Level up your Claw up to level 50.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/cf8437af81a98fcebaa01b7d91ecbc6fae6d78fe.jpg",
+                "unlocktime": "1694093897"
+            },
+            {
+                "id": "achievement_good_dagger",
+                "name": "Good Dagger",
+                "description": "Level up your Dagger up to level 50.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/5d5aa5a056f3927e7f798e4ad4d80ea4ddef121a.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_good_gloves",
+                "name": "Good Gloves",
+                "description": "Level up your Gloves up to level 50.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/325da6a89442ea1b7b48ec9f20f364d53136193d.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_good_helmet",
+                "name": "Good Helmet",
+                "description": "Level up your Helmet up to level 50.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/660dccb490875fbe1fc4b17e6b604cc1aa7ba206.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_good_necklace",
+                "name": "Good Necklace",
+                "description": "Level up your Necklace up to level 50.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/62eca36798bc0fd2cc1ed796dbbeba3c60e5fbfa.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_good_ring",
+                "name": "Good Ring",
+                "description": "Level up your Ring up to level 50.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/1ec0fc27a58c091df3a8e46e85a087b975555b3c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_good_shield",
+                "name": "Good Shield",
+                "description": "Level up your Shield up to level 50.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/5b6ce178e88b041f5fa10dd97d69aa61bdd5fc88.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_good_spirit",
+                "name": "Good Spirit",
+                "description": "Level up your Spirit up to level 50.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/d0f95c52956f6a638d4eedbc1331b06dd5ae2ee6.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_good_staff",
+                "name": "Good Staff",
+                "description": "Level up your Staff up to level 50.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/cc4f8c46e2f2e28eba504117118a0cc3776ac00f.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_good_sword",
+                "name": "Good Sword",
+                "description": "Level up your Sword up to level 50.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/f551c31bc4be3c9d499e7a460310e239a6976f0c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_good_yield",
+                "name": "Good Yield",
+                "description": "Double your offline earnings 50 times.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/dded4a77c9573f72be0edcbcd76a809c41052515.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_gotta_go_fast",
+                "name": "Gotta Go Fast",
+                "description": "Use the Boost 250 times.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/941b1651e7891d9ed68074403f1a9b94cbe644dd.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_great_armor",
+                "name": "Great Armor",
+                "description": "Level up your Armor up to level 150.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/263238a4ecd4b2ae85881873ad1e80970080edc7.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_great_axe",
+                "name": "Great Axe",
+                "description": "Level up your Axe up to level 150.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/15112190dd0e0265ff549f32b358e297c2546ce3.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_great_book",
+                "name": "Great Book",
+                "description": "Level up your Spellbook up to level 150.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/ecfaf76e7d06c99d2a0600000b26858b7880a4a1.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_great_boots",
+                "name": "Great Boots",
+                "description": "Level up your Boots up to level 150.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/454d1c85ff483d5429560ae1f2e0b70be934f106.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_great_bow",
+                "name": "Great Bow",
+                "description": "Level up your Bow up to level 150.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/6b89698720066930d41d5056201de795e3ab1a52.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_great_cape",
+                "name": "Great Cape",
+                "description": "Level up your Cape up to level 150.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/ec307d330e90ba704b585b1e2827f640da4c3e55.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_great_dagger",
+                "name": "Great Dagger",
+                "description": "Level up your Dagger up to level 150.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/9cbb15dae6087cc44009d79150e113ed55c2fdb5.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_great_gloves",
+                "name": "Great Gloves",
+                "description": "Level up your Gloves up to level 150.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/66ab9521c7965f99a5e9d5159dca2e65b70e34f5.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_great_helmet",
+                "name": "Great Helmet",
+                "description": "Level up your Helmet up to level 150.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/050bf3ff400ce2bf5d7fb4ff79f4c43c3630f8d3.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_great_necklace",
+                "name": "Great Necklace",
+                "description": "Level up your Necklace up to level 150.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/678a5ef6840a42607db72454c6908b29cec0a2e8.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_great_ring",
+                "name": "Great Ring",
+                "description": "Level up your Ring up to level 150.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/b086132dbd7056fdf85053802ba80a5f6d58dd30.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_great_shield",
+                "name": "Great Shield",
+                "description": "Level up your Shield up to level 150.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/efd7801a985a1374ac260f3b35fd47ee363ef1e1.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_great_spirit",
+                "name": "Great Spirit",
+                "description": "Level up your Spirit up to level 150.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/83d5e5dd0044ee5ff1befc644163a64a0dd64701.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_great_staff",
+                "name": "Great Staff",
+                "description": "Level up your Staff up to level 150.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/30925aa0d5ac1e607ae6007d9d4ae0f69917cf0b.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_great_sword",
+                "name": "Great Sword",
+                "description": "Level up your Sword up to level 150.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/f09c0aa636b2c0b90f659a85c1539430b7348e3a.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_great_yield",
+                "name": "Great Yield",
+                "description": "Double your offline earnings 100 times.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/d18ae776b0a97bb77ae61471b41b47888071a5b5.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_handworker",
+                "name": "Handworker",
+                "description": "Craft a total of 100 Temporary Items.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/2996c6d42598033345ae0b461cd331185ae6cc25.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_heavy_duty",
+                "name": "Heavy Duty",
+                "description": "Buy the \"Bag\" Ascension Upgrade.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/a7da31f9909e831fcd56c49d2c8d0b6c56054a17.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_heroes",
+                "name": "Heroes",
+                "description": "Check the Patreon Supporters.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/b40ec2f90acbb97cb0dea5e5aebc870ec1ff7d70.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_huge_income",
+                "name": "Huge Income",
+                "description": "Get 100 Ud Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/93b76a0fda51063bff4ba052ccc2adf99e2f505a.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_hundred_coins",
+                "name": "Hundred Coins",
+                "description": "Pick up 100 Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/8ac0df05e281abd05d28dfd8d995886648ac14b2.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_hungry_for_upgrades",
+                "name": "Hungry For Upgrades",
+                "description": "Buy 125 Upgrades all at once.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/bde76ac7d01a5049528f2387f135fd3c7d32777b.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_idle_bunny",
+                "name": "Idle Bunny",
+                "description": "Play the game on Easter (April).",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/35003b72ffe2d2c51106e835eb8123955bb04bfc.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_idle_lover",
+                "name": "Idle Lover",
+                "description": "Play the game on Valentine\u0027s Day.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/b1d62a5fea20c308713fb028b35fda9448b9e339.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_idle_santa",
+                "name": "Idle Santa",
+                "description": "Play the game on Christmas.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/07a5135ec68c2f14f80eb56cfa0599f1302bb1f5.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_idle_slayer_and_knuckles",
+                "name": "Idle Slayer \u0026 KNUCKLES",
+                "description": "Use the Boost 500 times.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/972d0eee329399a8b4ae28fe81fddabadc51380c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_ill_take_everything",
+                "name": "I\u0027ll Take Everything",
+                "description": "Buy 25 Upgrades all at once.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/b863e2398765a4815c8c7e97aca4e38bab0c3d53.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_imp",
+                "name": "Imp",
+                "description": "Have 3 Dark Divinities active.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/c846c56902362107475c8387407682096bf2c578.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_im_done_for_today",
+                "name": "I\u0027m Done For Today",
+                "description": "Complete 3 Daily Quests.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/12ce74e8cd0d1abd9bae241aad4cae90172d4b50.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_incredible_armor",
+                "name": "Incredible Armor",
+                "description": "Level up your Armor up to level 350.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/309858a5b6e9145fc5a6fe590c2375919f4a4e40.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_incredible_axe",
+                "name": "Incredible Axe",
+                "description": "Level up your Axe up to level 350.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/9fe9ff80fb8c87946c949495be215457beadf588.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_incredible_book",
+                "name": "Incredible Book",
+                "description": "Level up your Spellbook up to level 350.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/9e54832c05084759d9082089fa280b16022053be.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_incredible_boots",
+                "name": "Incredible Boots",
+                "description": "Level up your Boots up to level 350.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/7cac86ae6a02ba87eda3337dff56ef1abcf7b381.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_incredible_bow",
+                "name": "Incredible Bow",
+                "description": "Level up your Bow up to level 350.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/14ddc9da760682fa96bc17b7b14969c73002379f.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_incredible_dagger",
+                "name": "Incredible Dagger",
+                "description": "Level up your Dagger up to level 350.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/7363818be7456222b5212732522751a3c913b14c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_incredible_gloves",
+                "name": "Incredible Gloves",
+                "description": "Level up your Gloves up to level 350.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/34d4e55a47180f5880ec2b5379592bae2c3cbd9c.jpg",
+                "unlocktime": "1694094082"
+            },
+            {
+                "id": "achievement_incredible_helmet",
+                "name": "Incredible Helmet",
+                "description": "Level up your Helmet up to level 350.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/5843b6fa432ed610c74ec31a5cd2f4e5b853b03e.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_incredible_necklace",
+                "name": "Incredible Necklace",
+                "description": "Level up your Necklace up to level 350.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/e44bb3e56abdfe9a0bddf50897fba659cd3fac19.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_incredible_ring",
+                "name": "Incredible Ring",
+                "description": "Level up your Ring up to level 350.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/3d895bc67b2a586feffcf18bec02794bcc763152.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_incredible_shield",
+                "name": "Incredible Shield",
+                "description": "Level up your Shield up to level 350.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/3788c04c87456fbe815ed4f04cb18309a4dda9ab.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_incredible_spirit",
+                "name": "Incredible Spirit",
+                "description": "Level up your Spirit up to level 350.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/dbb467adb044251c1235d6288459f6021be5b66f.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_incredible_staff",
+                "name": "Incredible Staff",
+                "description": "Level up your Staff up to level 350.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/6c874f06eed6b502957d5b48be6bdf5227356af8.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_incredible_sword",
+                "name": "Incredible Sword",
+                "description": "Level up your Sword up to level 350.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/5b650e2c127f7c13aba6654555c7221feead7c50.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_indidle_jones",
+                "name": "Indidle Jones",
+                "description": "Pick up 150 Rubies.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/bc436836abe56210c1886390b535ae7745df0045.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_in_love_with_it",
+                "name": "In Love With It",
+                "description": "Play the game for 30 days.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/dcc9dab1eb26c90a0fc6cd8af1a7217cc0de80b0.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_its_a_long_way_to_the_top",
+                "name": "It\u0027s A Long Way To The Top",
+                "description": "Get an equipment up to level +500.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/15c08f2c91b5af8266e34cd5655e5cc60f3e0a97.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_its_no_use",
+                "name": "It\u0027s No Use!",
+                "description": "Use Rage Mode 50 times.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/6b972882c2fcfb0fa894cec6c051e08c5678da35.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_i_am_legend",
+                "name": "I Am Legend",
+                "description": "Buy the \"Legendary Belt\" Ascension Upgrade.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/8f040b05618bc441b55438cae20ce0ec57600b9f.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_jeweller",
+                "name": "Jeweller",
+                "description": "Get 50% gem spawn rate from Random Events.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/1e35c3b6967aa3923ba9602012ac2cc34a5635f7.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_jumper",
+                "name": "Jumper",
+                "description": "Use 50 Portals.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/c53c5e79072028dc50b42647893c15946ca0adf0.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_lady_luck",
+                "name": "Lady Luck",
+                "description": "Get a multiplier extended.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/f1bda4718959053efa20c7f2147c33668a7ebf42.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_light_speed",
+                "name": "Light Speed",
+                "description": "Use the Boost 5,000 times.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/cf44ecbe7cdc918743df7ad620ce8bec1a1bd58c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_live_and_learn",
+                "name": "Live And Learn",
+                "description": "Play the game for 180 days.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/4197cdfbc162eac107abc295f7a7a7d02fbbeffa.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_materials_i",
+                "name": "Materials I",
+                "description": "Discover one Material.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/81a68e11eedb5f0b4240712cb694b0302ed41177.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_materials_ii",
+                "name": "Materials II",
+                "description": "Discover 5 Materials.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/81a68e11eedb5f0b4240712cb694b0302ed41177.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_mathematician",
+                "name": "Mathematician",
+                "description": "Try out the Scientific Notation from the Options Menu.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/f5be338a78af2583603eeb40b69c06b0647dfc54.jpg",
+                "unlocktime": "1691925579"
+            },
+            {
+                "id": "achievement_mimics_massacre",
+                "name": "Mimics Massacre",
+                "description": "Slay 50 Mimics.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/f711d61842ae609c84008dc8b3b12b3e45f9c3b3.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_minions_have_spawned",
+                "name": "Minions Have Spawned",
+                "description": "Buy the \"Minions\" Ascension Upgrade.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/fb3e7b63abef657ccbc668c31e764b68e631882b.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_minions_levels_i",
+                "name": "Minion Levels I",
+                "description": "Let a Minion complete a Mission.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/1952fbd963a5452ce8e75efd6be2ecd5ce72116d.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_minions_levels_ii",
+                "name": "Minion Levels II",
+                "description": "Get a total of 10 Minion levels.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/e2db591a7212d3b55fce6f0cac55ab90c9a03b5b.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_minions_levels_iii",
+                "name": "Minion Levels III",
+                "description": "Get a total of 25 Minion levels.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/ff12c97243efadc83396bcf1bc83185954fdcfc6.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_minions_levels_iv",
+                "name": "Minion Levels IV",
+                "description": "Get a total of 50 Minion levels.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/22781b23adf51834d0265422b47368ca8b7cacb3.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_minions_levels_v",
+                "name": "Minions Levels V",
+                "description": "Get a total of 75 Minion levels.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/d647cf3d1fb8e2d1fe2b967bb33ed66127a17b63.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_minions_levels_vi",
+                "name": "Minion Levels VI",
+                "description": "Get a total of 100 Minion levels.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/03b9ecc61234561b6701d71d34506da2d3bbe49e.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_minions_levels_vii",
+                "name": "Minion Levels VII",
+                "description": "Get a total of 150 Minion levels.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/357f23ebc0d3bdebeb2023abcd2911fb9424056a.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_minions_levels_viii",
+                "name": "Minion Levels VIII",
+                "description": "Get a total of 200 Minion levels.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/f1adfef98bf432ef0661f68412819e6277ae58e6.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_minion_captain",
+                "name": "Minion Captain",
+                "description": "Get a total of 100 Missions done by your Minions.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/646932fd550437c5fe3c3284b56b85ceb6db3dff.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_minion_colonel",
+                "name": "Minion Colonel",
+                "description": "Get a total of 500 Missions done by your Minions.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/646932fd550437c5fe3c3284b56b85ceb6db3dff.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_minion_general",
+                "name": "Minion General",
+                "description": "Get a total of 1,000 Missions done by your Minions.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/646932fd550437c5fe3c3284b56b85ceb6db3dff.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_minion_major",
+                "name": "Minion Major",
+                "description": "Get a total of 250 Missions done by your Minions.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/646932fd550437c5fe3c3284b56b85ceb6db3dff.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_missingno_income",
+                "name": "MissingNo Income",
+                "description": "Get 1 Td Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/60089b17cb7e4b32d8236095f546190b53217ba4.jpg",
+                "unlocktime": "1694185303"
+            },
+            {
+                "id": "achievement_multipliers_i",
+                "name": "Multipliers I",
+                "description": "Get a x20 multiplier or more in a Chest Hunt.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/f367edbabe515b21ea8ecbbe6f3c73385b2dfab6.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_multipliers_ii",
+                "name": "Multipliers II",
+                "description": "Get a x30 multiplier or more in a Chest Hunt.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/480f32c4fbf5e8d1786d9ba07798492d22848752.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_multipliers_iii",
+                "name": "Multipliers III",
+                "description": "Get a x40 multiplier or more in a Chest Hunt.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/cfd795edd1e9a0ccfba0359b96e6601310c4fd2d.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_multipliers_iv",
+                "name": "Multipliers IV",
+                "description": "Get a x50 multiplier or more in a Chest Hunt.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/f5c778b598719fed7c1f5739fa428dd48057e414.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_my_combat_arsenal",
+                "name": "My Combat Arsenal",
+                "description": "Unlock the Armory.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/08ede9f613c67f6420818e177e496a104b67dcad.jpg",
+                "unlocktime": "1694185303"
+            },
+            {
+                "id": "achievement_never_miss_a_day",
+                "name": "Never Miss A Day",
+                "description": "Complete 50 Daily Quests.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/73445585eda4fc7e5690833c019175cff56b10d4.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_nice_armor",
+                "name": "Nice Armor",
+                "description": "Level up your Armor up to level 100.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/73b3ed2ccb9ac45a265eb345c8a41ef566527f8c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_nice_axe",
+                "name": "Nice Axe",
+                "description": "Level up your Axe up to level 100.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/e0fa428d5fc40e392adc05cc677e9416702fa085.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_nice_book",
+                "name": "Nice Book",
+                "description": "Level up your Spellbook up to level 100.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/9b95dac0eb782ff22f5e3107db420247ec94fb55.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_nice_boots",
+                "name": "Nice Boots",
+                "description": "Level up your Boots up to level 100.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/0b63cf626266ebe93c2711b51c5e4df8c75a8847.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_nice_bow",
+                "name": "Nice Bow",
+                "description": "Level up your Bow up to level 100.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/e9dad0a8e88a1da44bcf98d05d8f269beeff9b85.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_nice_cape",
+                "name": "Nice Cape",
+                "description": "Level up your Cape up to level 100.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/f6bd90abf0ab81ac7b513d5db542a70fd678ffc6.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_nice_dagger",
+                "name": "Nice Dagger",
+                "description": "Level up your Dagger up to level 100.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/27792507a45d9d56797b51b7ff0bd130c070f04b.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_nice_gloves",
+                "name": "Nice Gloves",
+                "description": "Level up your Gloves up to level 100.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/f5291b55f408c8c7dca5028191905b6c24525b07.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_nice_helmet",
+                "name": "Nice Helmet",
+                "description": "Level up your Helmet up to level 100.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/9f6e0ba88e0bb454e6ae2d94d0f946020f03ef0c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_nice_jump",
+                "name": "Nice Jump",
+                "description": "Jump high.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/2faec1b69963cfc4862229576196f629638d02fc.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_nice_necklace",
+                "name": "Nice Necklace",
+                "description": "Level up your Necklace up to level 100.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/762e57405fdbe305b65a6861baa91df0d03387fa.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_nice_ring",
+                "name": "Nice Ring",
+                "description": "Level up your Ring up to level 100.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/d63dd6e60663ca16c73dd403607910f679b91f7d.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_nice_shield",
+                "name": "Nice Shield",
+                "description": "Level up your Shield up to level 100.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/fe3187a17ba108da9e93f12b920509ab197f0b3b.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_nice_spirit",
+                "name": "Nice Spirit",
+                "description": "Level up your Spirit up to level 100.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/9afe772bd33314cd4a5792c4e11b7b3fa69c6e02.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_nice_staff",
+                "name": "Nice Staff",
+                "description": "Level up your Staff up to level 100.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/03e205f09678005180e74830192609446beba328.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_nice_sword",
+                "name": "Nice Sword",
+                "description": "Level up your Sword up to level 100.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/3301f5ff83e0a5f5a9f6f3e9c1808df973a86591.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_not_a_question_block",
+                "name": "Not a Question Block",
+                "description": "Trigger 50 Random Boxes.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/4717f72c5b1ecb6b910ebbf54db0d3d16888effb.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_not_idling",
+                "name": "Not Idling",
+                "description": "Play the game for 7 days.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/217c22384758b1247086e34b15aa1d7216f777c0.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_obsidian_trophy",
+                "name": "Obsidian Trophy",
+                "description": "Unlock 400 Achievements.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/a3817d2850d133da91f51768bfe60c59b6c383be.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_omg_that_armor",
+                "name": "OMG THAT ARMOR",
+                "description": "Level up your Armor up to level 450.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/fea07d5a40aa23fbcc3dbb229852f591e73220f0.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_omg_that_axe",
+                "name": "OMG THAT AXE",
+                "description": "Level up your Axe up to level 450.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/b1c441bf3155e0b8be110fc563b7c7a3a15b238b.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_omg_that_book",
+                "name": "OMG THAT BOOK",
+                "description": "Level up your Spellbook up to level 450.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/dfafdc2872df607d7ccc7a99859e5f3096541a76.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_omg_that_bow",
+                "name": "OMG THAT BOW",
+                "description": "Level up your Bow up to level 450.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/04baeb1873e70dde99bd8993bdeec9691d9e0473.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_omg_that_dagger",
+                "name": "OMG THAT DAGGER",
+                "description": "Level up your Dagger up to level 450.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/95960b56eba9479ae571f8e17254bbff193cb9c6.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_omg_that_helmet",
+                "name": "OMG THAT HELMET",
+                "description": "Level up your Helmet up to level 450.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/b02ae6f8f5fef97420b02b719b7acf5b5a9d4f0c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_omg_that_necklace",
+                "name": "OMG THAT NECKLACE",
+                "description": "Level up your Necklace up to level 450.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/229b479eed2e06a465a168d96163deaf563f76df.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_omg_that_ring",
+                "name": "OMG THAT RING",
+                "description": "Level up your Ring up to level 450.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/330d6b7740912538c37b5aa0b55052fe2f2884e8.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_omg_that_shield",
+                "name": "OMG THAT SHIELD",
+                "description": "Level up your Shield up to level 450.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/4225b56617aa2a01a906ffbfc819aec9769f742f.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_omg_that_spirit",
+                "name": "OMG THAT SPIRIT",
+                "description": "Level up your Spirit up to level 450.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/02d5c76a628f9e3efb646fd33490632f65daca2b.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_omg_that_staff",
+                "name": "OMG THAT STAFF",
+                "description": "Level up your Staff up to level 450.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/6cef27d64bb8905e912fc3eca49926bc9c5f9d0e.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_omg_that_sword",
+                "name": "OMG THAT SWORD",
+                "description": "Level up your Sword up to level 450.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/a7fad13ee67216beb7cbb90ad415cbbb7f5fb100.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_omg_those_boots",
+                "name": "OMG THOSE BOOTS",
+                "description": "Level up your Boots up to level 450.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/adfd0ba35b6ce30a83fa7e1d6192fd008356e2e2.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_one_arrow_eight_kills",
+                "name": "One Arrow Eight Kills",
+                "description": "Kill 8 enemies with one single arrow.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/bdbdc922c11ac03b7876b9a2077303ced5d7c29b.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_outstanding_armor",
+                "name": "Outstanding Armor",
+                "description": "Level up your Armor up to level 300.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/9c6f2284e3038f042051736189d80888c96d1041.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_outstanding_axe",
+                "name": "Outstanding Axe",
+                "description": "Level up your Axe up to level 300.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/cefe59708ef0104712a7e9f713a7f96174dee0a6.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_outstanding_book",
+                "name": "Outstanding Book",
+                "description": "Level up your Spellbook up to level 300.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/fcab3ca2d3429ec816a456ec59391956d632c7d8.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_outstanding_boots",
+                "name": "Outstanding Boots",
+                "description": "Level up your Boots up to level 300.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/558309be7dde7979de223da60cc6bf3aa961e6dd.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_outstanding_bow",
+                "name": "Outstanding Bow",
+                "description": "Level up your Bow up to level 300.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/9eba23514ab1fa0e78cb231e836e6cc9cce8f312.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_outstanding_dagger",
+                "name": "Outstanding Dagger",
+                "description": "Level up your Dagger up to level 300.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/dd671c60107ed76b45ecc3ef58eadcec94443ebc.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_outstanding_gloves",
+                "name": "Outstanding Gloves",
+                "description": "Level up your Gloves up to level 300.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/aba7c0c742f6c40856ccc8d2096b36051b7f4d3a.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_outstanding_helmet",
+                "name": "Outstanding Helmet",
+                "description": "Level up your Helmet up to level 300.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/aa74fc568a10733365267683a268e5c66ea3a260.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_outstanding_necklace",
+                "name": "Outstanding Necklace",
+                "description": "Level up your Necklace up to level 300.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/3a0a59810f59e9584b542e203ae0591c2f4263e1.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_outstanding_ring",
+                "name": "Outstanding Ring",
+                "description": "Level up your Ring up to level 300.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/3d29e915ac26181f5a8b204bef6ca09a3727f409.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_outstanding_shield",
+                "name": "Outstanding Shield",
+                "description": "Level up your Shield up to level 300.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/b9149d7f286c935f02757de9dbc67b47b3721467.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_outstanding_spirit",
+                "name": "Outstanding Spirit",
+                "description": "Level up your Spirit up to level 300.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/683b661d4cd0306a730f41ece69bad8dde1e0c2c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_outstanding_staff",
+                "name": "Outstanding Staff",
+                "description": "Level up your Staff up to level 300.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/0ad6b7f677e5e28554b0bd63e77ff2a30f700659.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_outstanding_sword",
+                "name": "Outstanding Sword",
+                "description": "Level up your Sword up to level 300.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/d5fa1cfddb48609e82b0b35bf8cba79541fcdbe1.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_path_finder",
+                "name": "Path Finder",
+                "description": "Complete a total of 100 Bonus Stages with all its sections.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/3ed4bc60a7bdb463c8ad2e7c0eba2fbfdb19b0d7.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_platform_beginner",
+                "name": "Platform Beginner",
+                "description": "Complete 1 section of the Bonus Stage.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/414d50bd3687c9be27f156cf761bca4ef7584f8c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_platform_experienced",
+                "name": "Platform Experienced",
+                "description": "Complete a total of 5 sections of the Bonus Stage.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/414d50bd3687c9be27f156cf761bca4ef7584f8c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_platform_master",
+                "name": "Platform Master",
+                "description": "Complete a total of 50 sections of the Bonus Stage.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/414d50bd3687c9be27f156cf761bca4ef7584f8c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_platform_veteran",
+                "name": "Platform Veteran",
+                "description": "Complete a total of 100 sections of the Bonus Stage.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/414d50bd3687c9be27f156cf761bca4ef7584f8c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_platinum_trophy",
+                "name": "Platinum Trophy",
+                "description": "Unlock 350 Achievements.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/38f2b62c503a8e9cc76321ca927dc659cdc86696.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_prithee_be_careful",
+                "name": "Prithee Be Careful",
+                "description": "Craft a total of 20 Temporary Items.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/1195ce71ccfafab40858a082acb266cd58888eea.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_pure_rng",
+                "name": "Pure RNG",
+                "description": "Trigger 1,000 Random Boxes.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/0fcaacfc7da6dbc4f7578a802e3b47eabd096762.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_quadrupler",
+                "name": "Quadrupler",
+                "description": "Have 4 multipliers active at the same time.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/70971312c5dff69ce4c026ccc0e82937b85bac83.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_queen_luck",
+                "name": "Queen Luck",
+                "description": "Have a multiplier extended to 7 minutes or more.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/60b87e1b63ec9ee159745384b30c6a3242445bec.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_quests_slayer_i",
+                "name": "Quests Slayer I",
+                "description": "Claim 4 Quests.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/759f35074152964e7bf7e83e60ac18b3ae3a06f7.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_quests_slayer_ii",
+                "name": "Quests Slayer II",
+                "description": "Claim 8 Quests.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/c010377a6cb7fd118624bbc82066bc942ea0bb0e.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_quests_slayer_iii",
+                "name": "Quests Slayer III",
+                "description": "Claim 15 Quests.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/66c073ea3d4c0cca80103e71b6d2fd3e5dbdd70c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_quests_slayer_iv",
+                "name": "Quests Slayer IV",
+                "description": "Claim 30 Quests.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/a4831621b8074526270bd7b1565e3c6586e19687.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_quests_slayer_v",
+                "name": "Quests Slayer V",
+                "description": "Claim 45 Quests.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/430f680e32a5acddf9ce9370114d0b9e5c13fdca.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_quest_investigation",
+                "name": "Quest Investigation",
+                "description": "Check the rewards of a Quest.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/a331dc881034aa4dc44ba56e9dee20be60f3cc93.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_random_but_not_random",
+                "name": "Random But Not Random",
+                "description": "Trigger 500 Random Boxes.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/8337985a08fc1b9d4b5d14c716474775c14af5a2.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_random_is_fun",
+                "name": "Random Is Fun",
+                "description": "Trigger 100 Random Boxes.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/df0d712fcb76fa15cbdf5f74f8e53047da5020d9.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_reborn",
+                "name": "REBORN!",
+                "description": "Ultra Ascend 4 times.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/f1b449251487f1c290b221617bd680fbf0254a35.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_refined_ruby",
+                "name": "Refined Ruby",
+                "description": "Pick up 100,000 Rubies.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/9d022da817c1db0244f74132541798f5a0153dc4.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_revenge",
+                "name": "Revenge",
+                "description": "Slay 10 Mimics.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/4bbb442dc96047a252c49daa0f44b18f50fff7aa.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_ring_of_dueling_material",
+                "name": "Ring of Dueling Material",
+                "description": "Pick up 1,000 Emeralds.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/da80a49304a35dcc7f544c678cef6ba51c09c20c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_ring_of_recoil_material",
+                "name": "Ring of Recoil Material",
+                "description": "Pick up 1,000 Sapphires.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/5ccf0e4e40e87c4747647dcd574516d06310eb30.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_rip_and_tear",
+                "name": "Rip \u0026 Tear!",
+                "description": "Use Rage Mode 250 times.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/6b972882c2fcfb0fa894cec6c051e08c5678da35.jpg",
+                "unlocktime": "1694425740"
+            },
+            {
+                "id": "achievement_rubies_collector",
+                "name": "Rubies Collector",
+                "description": "Pick up 50 Rubies.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/fa7f947dce17f13dbe8e08a7e5c01fa1c418f9ae.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_ruby_ingot",
+                "name": "Ruby Ingot",
+                "description": "Pick up 10,000 Rubies.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/59355018beb924d6d8f5ca31b836698840dbd8f3.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_sapphire_ingot",
+                "name": "Sapphire Ingot",
+                "description": "Pick up 10,000 Sapphires.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/b9e734eb4f53cea461d02749b82bbb190334e960.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_scarlet_master",
+                "name": "Scarlet Master",
+                "description": "Pick up 1,000 Rubies.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/cdbbcf09bd1963474805f590af03cda299237b8b.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_shiny_green",
+                "name": "Shiny Green",
+                "description": "Pick up 500 Emeralds.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/42d9be6c900782a5be263e6bb3f5972f45b4557c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_shiny_red",
+                "name": "Shiny Red",
+                "description": "Pick up 500 Rubies.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/5c8abddbdfeebd92085300d0d7c163940542e4fc.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_skilled",
+                "name": "Skilled",
+                "description": "Complete a full Bonus Stage.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/f903437525206bd169f15dff57e4fca90038e5aa.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_social_slayer",
+                "name": "Social Slayer",
+                "description": "Visit Idle Slayer\u0027s Discord.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/d13579b7c4bbbb0575cfc14c6fd3d22f3b358ea0.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_sonic_the_hedgehog",
+                "name": "Sonic The Hedgehog",
+                "description": "Use the Boost 100 times.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/4ec5aa26110084dfe200c7e19529e5265ee2ac93.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_so_long_partner",
+                "name": "So Long Partner",
+                "description": "Break your first item from the Armory.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/cebfbea1ed92b16bfcf86c4a229210f8bfbf24f4.jpg",
+                "unlocktime": "1694201791"
+            },
+            {
+                "id": "achievement_speedrun",
+                "name": "Speedrun",
+                "description": "Complete a full Bonus Stage without falling once.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/414d50bd3687c9be27f156cf761bca4ef7584f8c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_speeds_by",
+                "name": "Speeds By",
+                "description": "Use the Boost 50 times.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/941b1651e7891d9ed68074403f1a9b94cbe644dd.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_spirit_acceleration",
+                "name": "Spirit Acceleration",
+                "description": "Pick up 500 Spirit Boost spheres.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/7f9eea20789a0b7672b7f0e3887cceac3daa2b1b.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_spirit_boosted_run",
+                "name": "Spirit Boosted Run",
+                "description": "Complete a Bonus Stage with the Spirit Boost mod active.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/f9356798d7763a7ba60f16eedd9748a4f8ab439e.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_spirit_momentum",
+                "name": "Spirit Momentum",
+                "description": "Pick up 750 Spirit Boost spheres.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/7a948a3307cf60a4b86bc5899b1af4ae267bf045.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_spirit_speed",
+                "name": "Spirit Speed",
+                "description": "Pick up 100 Spirit Boost spheres.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/1bf16e65c6c63fe0adaf05006266375c27db8e9a.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_spirit_velocity",
+                "name": "Spirit Velocity",
+                "description": "Pick up 25 Spirit Boost spheres.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/b1fb9c0c5a74807ff17bc810c000315fd53dcd80.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_stack_error_income",
+                "name": "Stack Error Income",
+                "description": "Get 10 Dd Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/081423449cbdc3da5bf4e61b5932fef8742751b1.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_stones_of_time",
+                "name": "Stones of Time",
+                "description": "Unlock the Stones of Time.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/aca09b71b2e8fba2ab63018400f3ecc806a92deb.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_superluminal",
+                "name": "Superluminal",
+                "description": "Use the Boost 10,000 times.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/cf44ecbe7cdc918743df7ad620ce8bec1a1bd58c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_super_sonic",
+                "name": "Super Sonic",
+                "description": "Use the Boost 1,000 times.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/94e0d2bde5a01c37307fcd8c93d16ea7a34c1bc4.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_supportive_slayer",
+                "name": "Supportive Slayer",
+                "description": "Visit Pablo Leban\u0027s Patreon.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/b1d62a5fea20c308713fb028b35fda9448b9e339.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_supreme_armor",
+                "name": "Supreme Armor",
+                "description": "Level up your Armor up to level 500.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/bc1acd3481c04411655885994dd5e5b52f1620c1.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_supreme_axe",
+                "name": "Supreme Axe",
+                "description": "Level up your Axe up to level 500.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/9772378acc42d3cea08e253d73d62318bccd4258.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_supreme_book",
+                "name": "Supreme Book",
+                "description": "Level up your Spellbook up to level 500.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/e11de82bfe4a488b02aa6731411c90fd7d0b6c9a.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_supreme_boots",
+                "name": "Supreme Boots",
+                "description": "Level up your Boots up to level 500.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/74ea0c8a53e7ee10f2c08243a8a2b4a0850dcbe4.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_supreme_bow",
+                "name": "Supreme Bow",
+                "description": "Level up your Bow up to level 500.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/cf12b9d4174b755053b7125619e319a061258847.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_supreme_dagger",
+                "name": "Supreme Dagger",
+                "description": "Level up your Dagger up to level 500.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/2baf0d19a6b212cd836e69bcf5530fa48852a9c1.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_supreme_helmet",
+                "name": "Supreme Helmet",
+                "description": "Level up your Helmet up to level 500.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/00f1d9e0d1e41d06220e5f66eeeb44d848e92f9d.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_supreme_necklace",
+                "name": "Supreme Necklace",
+                "description": "Level up your Necklace up to level 500.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/0e1632bcf881ae306454945bdc5c47e01e5458b5.jpg",
+                "unlocktime": "1694417025"
+            },
+            {
+                "id": "achievement_supreme_ring",
+                "name": "Supreme Ring",
+                "description": "Level up your Ring up to level 500.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/614b261d720eb4832084fbdf80915d3ecbf01142.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_supreme_shield",
+                "name": "Supreme Shield",
+                "description": "Level up your Shield up to level 500.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/444a51cb4445fea4d86a92ef12a25a0320a15985.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_supreme_spirit",
+                "name": "Supreme Spirit",
+                "description": "Level up your Spirit up to level 500.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/05158455550e8c21a5ddc5599dd102fddad6d877.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_supreme_staff",
+                "name": "Supreme Staff",
+                "description": "Level up your Staff up to level 500.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/137de7f5199b77a4249f643fe7bfbdf51bf46407.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_supreme_sword",
+                "name": "Supreme Sword",
+                "description": "Level up your Sword up to level 500.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/921a34d1799911674fed47cb5e976d0f733f0183.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_surreal_income",
+                "name": "Surreal Income",
+                "description": "Get 1 De Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/7eb58e9a729cd2c37c9b04b881ecf13e51f96b17.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_ten_coins",
+                "name": "Ten Coins",
+                "description": "Pick up 10 Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/ff4d55e231b3fa640f1cfec20a77a0c4042e73c4.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_that_was_fun",
+                "name": "That Was Fun",
+                "description": "Find a Mimic on the first Chest you open.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/75b7cf355e32ef339d1f8283038b91652a11b9c5.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_the_box_the_box",
+                "name": "The Box! The Box!",
+                "description": "Trigger 20 Random Boxes.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/76ed1d4941ea946cf2a055c395d1dadad7d526c3.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_the_completionist",
+                "name": "The Completionist",
+                "description": "Unlock 150 Achievements.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/7b908caa1b5d7d5df020121f847f967aea21f7d7.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_the_cookie_is_a_lie",
+                "name": "The Cookie Is A Lie",
+                "description": "Use 5 Portals.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/c53c5e79072028dc50b42647893c15946ca0adf0.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_the_importance_of_being_idle",
+                "name": "The Importance of Being Idle",
+                "description": "Play the game for 15 days.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/f24f7127ce93155df911489cdd4bdb06c2456bd3.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_the_lost_relics",
+                "name": "The Lost Relics",
+                "description": "Buy something with Jewels of Soul.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/fa908dab501eefa49b50740be7b7402f44fd2c86.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_the_most_common_one",
+                "name": "The Most Common One",
+                "description": "Pick up 50 Sapphires.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/12d6dd2d4ff727a396b2b9b9ef3a8cf6ebafe9bf.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_the_origins",
+                "name": "The Origins",
+                "description": "Ultra Ascend 2 times.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/b7e427d126f4c9fe577df0aa433dd0f4bf760c15.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_thousand_coins",
+                "name": "Thousand Coins",
+                "description": "Pick up 1,000 Coins.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/57b7ec89b1c8ac2d99034a4aeb8b79b8ac4bfa73.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_time_loop",
+                "name": "Time Loop",
+                "description": "Ascend 20 times.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/5345b603ef04f51bf1db354f70bf4bcde0fbdb21.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_to_the_grand_exchange",
+                "name": "To The Grand Exchange!",
+                "description": "Pick up 150 Sapphires.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/67c297aae319f21440b0f47dc82070f2ea0c655d.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_transcendental_income",
+                "name": "Transcendental Income",
+                "description": "Get 1 Ud Coins per Second.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/15defb674badc189081ca1177d6a2efe9b4c36fd.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_treasure_hunt",
+                "name": "Treasure Hunt",
+                "description": "Find your first item for the Armory.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/08ede9f613c67f6420818e177e496a104b67dcad.jpg",
+                "unlocktime": "1694185303"
+            },
+            {
+                "id": "achievement_tripler",
+                "name": "Tripler",
+                "description": "Have 3 multipliers active at the same time.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/419fad279850790f6d7e4cc7ee1a4654492f57a0.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_tweet_slayer",
+                "name": "Tweet Slayer",
+                "description": "Visit Idle Slayer\u0027s Twitter.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/9d1c8b5eaa7fed1da9168b6dcb572a452a9cb972.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_unbelievable_armor",
+                "name": "UNBELIEVABLE ARMOR",
+                "description": "Level up your Armor up to level 400.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/7ded1513050f3b5e8258946e9021c235f5e9c3c9.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_unbelievable_axe",
+                "name": "UNBELIEVABLE AXE",
+                "description": "Level up your Axe up to level 400.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/a490bd83c27ade7cb444c172522967728d1d2427.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_unbelievable_book",
+                "name": "UNBELIEVABLE BOOK",
+                "description": "Level up your Spellbook up to level 400.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/e14dba5e3f000b64fde50e4036f0b754e7e5e771.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_unbelievable_boots",
+                "name": "UNBELIEVABLE BOOTS",
+                "description": "Level up your Boots up to level 400.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/0897f596e584a67ef09dc4515073ad9ee83fcba2.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_unbelievable_bow",
+                "name": "UNBELIEVABLE BOW",
+                "description": "Level up your Bow up to level 400.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/51aa00d5e47357677e8662cff6316ca279a11af9.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_unbelievable_dagger",
+                "name": "UNBELIEVABLE DAGGER",
+                "description": "Level up your Dagger up to level 400.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/606be876cf0bd9141af4ac179d6fafc7cb7c6bfb.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_unbelievable_helmet",
+                "name": "UNBELIEVABLE HELMET",
+                "description": "Level up your Helmet up to level 400.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/aad26db075749f4759d4d47e5488eef28d856558.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_unbelievable_necklace",
+                "name": "UNBELIEVABLE NECKLACE",
+                "description": "Level up your Necklace up to level 400.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/d87268cf3c9a86a96fd715416866c903e9a25345.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_unbelievable_ring",
+                "name": "UNBELIEVABLE RING",
+                "description": "Level up your Ring up to level 400.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/a10e348273f420b32d998604c109d2dcb38f44db.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_unbelievable_shield",
+                "name": "UNBELIEVABLE SHIELD",
+                "description": "Level up your Shield up to level 400.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/fb24b7444d385c501cd2996e3036aa3d64897b13.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_unbelievable_spirit",
+                "name": "UNBELIEVABLE SPIRIT",
+                "description": "Level up your Spirit up to level 400.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/5948118307b1448cb4adb2e69de293e3da236425.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_unbelievable_staff",
+                "name": "UNBELIEVABLE STAFF",
+                "description": "Level up your Staff up to level 400.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/2e19747a06ff99b0e37328d4edc8f087311a22f6.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_unbelievable_sword",
+                "name": "UNBELIEVABLE SWORD",
+                "description": "Level up your Sword up to level 400.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/b68ea91d03c95390686ca4e436df05bd936034e3.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_uncut_gems",
+                "name": "Uncut Gems",
+                "description": "Pick up 500 Sapphires.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/0ab7691e478861a5a95d3ca915918a2c7ff462e4.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_united",
+                "name": "United",
+                "description": "Select 3 different Characters.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/fd6453c46feb7c9bb595c1a338ff49191988e959.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_unstoppable",
+                "name": "Double Rage Mode",
+                "description": "Use the Rage Mode while using the Rage Mode.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/6b972882c2fcfb0fa894cec6c051e08c5678da35.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_upgrades_collector",
+                "name": "Upgrade Collector",
+                "description": "Buy 50 Upgrades all at once.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/c489d2e53ca851649eed9a41d94936ba05ff19d5.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_upgrades_i",
+                "name": "Upgrades I",
+                "description": "Have a total of 10 upgrades in one Ascension.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/733dc2a1d47909a2cfb6964c1bf7c9c80653b86c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_upgrades_ii",
+                "name": "Upgrades II",
+                "description": "Have a total of 25 upgrades in one Ascension.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/add136c63cd17c22701db518a801e93cf8483564.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_upgrades_iii",
+                "name": "Upgrades III",
+                "description": "Have a total of 50 upgrades in one Ascension.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/5b94af91bfce31bc5f3613e4661fb91d2a33a896.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_upgrades_iv",
+                "name": "Upgrades IV",
+                "description": "Have a total of 75 upgrades in one Ascension.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/f2b8608224e45620c952e076ec7b19f120bff572.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_upgrades_manager",
+                "name": "Upgrade Manager",
+                "description": "Buy 75 Upgrades all at once.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/48796be4b6316923fef025f5fa65885c13e9118f.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_upgrades_slayer",
+                "name": "Upgrade Slayer",
+                "description": "Buy 150 Upgrades all at once.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/4e3e24207b93b2f62751377d19134ecc08de8c98.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_upgrades_v",
+                "name": "Upgrades V",
+                "description": "Have a total of 100 upgrades in one Ascension.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/bf54284070891c91b146ea19c0e2875a3174c2f8.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_upgrades_vi",
+                "name": "Upgrades VI",
+                "description": "Have a total of 125 upgrades in one Ascension.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/c8eab006778270fb298d51e63d4908a458a1bd08.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_upgrades_vii",
+                "name": "Upgrades VII",
+                "description": "Have a total of 150 upgrades in one Ascension.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/fefb2137c98e73996f73532e5074f3c480685638.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_upgrades_viii",
+                "name": "Upgrades VIII",
+                "description": "Have a total of 200 upgrades in one Ascension.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/32ce9a43757ffc68c0c29c85f6bb3cb036a9d709.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_uranium_trophy",
+                "name": "Uranium Trophy",
+                "description": "Unlock 450 Achievements.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/2c057b2f1225ad3481e38818c7cdc58b15bb47f2.jpg",
+                "unlocktime": "1694425740"
+            },
+            {
+                "id": "achievement_wait_for_me",
+                "name": "Wait For Me!",
+                "description": "Make a Collectable follow you for more than 5 seconds.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/65bd4a72996b8f2ccaeac5aa17b6184024187143.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_welcome_back",
+                "name": "Welcome Back!",
+                "description": "Play the game for 2 days.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/19746739877e2c59a6dfd5f68d6582bdf707fe2f.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_what_could_be_in",
+                "name": "What Could Be Inside?",
+                "description": "Trigger 5 Random Boxes.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/9101a278d54c67b5082e990b910b98aca6daed62.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_where_am_i",
+                "name": "Where Am I?",
+                "description": "Go through a Portal for the first time.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/c53c5e79072028dc50b42647893c15946ca0adf0.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_whos_the_protagonist",
+                "name": "Who\u0027s The Protagonist?",
+                "description": "Change the Character.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/2a42859006f1f330ffd3433860251db5dc71a7f3.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_wraith",
+                "name": "Wraith",
+                "description": "Use 100 Portals.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/c53c5e79072028dc50b42647893c15946ca0adf0.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_youve_found_it",
+                "name": "You\u0027ve Found It!",
+                "description": "Yes, this is an Achievement.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/75ffcd07a7a3e16d149a5aabf952ee96bee2ee87.jpg",
+                "unlocktime": "1693408584"
+            },
+            {
+                "id": "achievement_you_are_going_too_fast",
+                "name": "You Are Going Too Fast",
+                "description": "Make a Collectable follow you for more than 10 seconds.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/65bd4a72996b8f2ccaeac5aa17b6184024187143.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "ascension_upgrade_astral_slayer",
+                "name": "Astral Slayer",
+                "description": "Buy the \"Astral Slayer\" Ascension Upgrade.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/4760a01ea6eb66009d95432ba3dd90a353980cd2.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "map_factory",
+                "name": "Factory",
+                "description": "Visit  for the first time.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/b2dd4382e084ce21984a419c95f80e3351427727.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "map_forest",
+                "name": "Forest",
+                "description": "Visit  for the first time.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/a89db93481bfb28e65b0410fb299d122a58c0802.jpg",
+                "unlocktime": "1694417025"
+            },
+            {
+                "id": "map_frozen_fields",
+                "name": "Frozen Fields",
+                "description": "Visit  for the first time.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/b14ae94b7b7a221e14b31c453f9c6ebbb452cf40.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "map_haunted_castle",
+                "name": "Haunted Castle",
+                "description": "Visit  for the first time.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/6e6683797f03faa420ba84391dfa221971146eff.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "map_hills",
+                "name": "Hills",
+                "description": "Go back to Hills.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/ddea64fbb456ce61b97cc1383bfdba6e44d73108.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "map_hot_desert",
+                "name": "Hot Desert",
+                "description": "Visit  for the first time.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/4660b793f310ff2728ca865d24c9dabd1e636fe7.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "map_jungle",
+                "name": "Jungle",
+                "description": "Visit  for the first time.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/36c6dfaf8baa0ae52b75cb06dea199765b8fa66f.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "map_modern_city",
+                "name": "Modern City",
+                "description": "Visit  for the first time.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/c36762de304e196ce9de9822057de4efb8e65fe1.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "map_mystic_valley",
+                "name": "Mystic Valley",
+                "description": "Visit  for the first time.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/b279741bd4b6c38dbf5e98b5d67db6e3b9cfd5a1.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "map_tavern",
+                "name": "Edenor\u0027s Tavern",
+                "description": "Visit  for the first time.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/780876c33579f639a9322723a237a4e2c96993da.jpg",
+                "unlocktime": "1694417025"
+            },
+            {
+                "id": "map_village",
+                "name": "Village",
+                "description": "Visit  for the first time.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/9d97c25d713bcd0999edc63bacb9504b2e87e79a.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_diamonds_collector",
+                "name": "Diamonds Collector",
+                "description": "Pick up 50 Diamonds.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/753e45d9ab97c9f1be85a5c1fb63bc28502c07a8.jpg",
+                "unlocktime": "1694185303"
+            },
+            {
+                "id": "achievement_enemy_skewer",
+                "name": "Enemy Skewer",
+                "description": "Slay 100 enemies with one single arrow.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/c8733d58fc64ee10e75f9731ea8fbe1449993e6c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_multiplier_multiplied",
+                "name": "Multiplier Multiplied",
+                "description": "Multiply a multiplier during Chest Hunt.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/bfccbfe7592f41d7b96ae81cd066b6d3df18a34a.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_one_arrow_25_kills",
+                "name": "One Arrow 25 Kills",
+                "description": "Slay 25 enemies with one single arrow.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/c8733d58fc64ee10e75f9731ea8fbe1449993e6c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_one_arrow_50_kills",
+                "name": "One Arrow 50 Kills",
+                "description": "Slay 50 enemies with one single arrow.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/c8733d58fc64ee10e75f9731ea8fbe1449993e6c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_one_arrow_three_kills",
+                "name": "One Arrow Three Kills",
+                "description": "Slay 3 enemies with one single arrow.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/c8733d58fc64ee10e75f9731ea8fbe1449993e6c.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "achievement_steves_ambition",
+                "name": "Steve\u0027s Ambition",
+                "description": "Pick up 150 Diamonds.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/db46b2ad52eda345733ec1f45ef4bc3e1bac0e41.jpg",
+                "unlocktime": "1694185303"
+            },
+            {
+                "id": "achievement_craftsman",
+                "name": "Craftsman",
+                "description": "Craft a Temporary Item using the Quick Tool Belt.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/d19d6bc2e006fa37cc5390ed5b72f035f60462bb.jpg",
+                "unlocktime": "1691924687"
+            },
+            {
+                "id": "craftable_item_quick_tool_belt",
+                "name": "Quick Tool Belt",
+                "description": "Unlock the Quick Tool Belt.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/34f11e918cfd05c2d6fe3e3e915169ef6cbb0863.jpg",
+                "unlocktime": "1691924687"
+            }
+        ]
+    }
+]

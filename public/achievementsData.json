@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/cdc6d9a98d7655aae9c229f35d9f61383627e49e.jpg",
+    "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/cdc6d9a98d7655aae9c229f35d9f61383627e49e.jpg",
     "title": "Logro 1",
     "description": "Descripción del logro 1"
   },
   {
     "id": 2,
-    "imageUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/7e82cc8c9f64c86ca814c080f7278eb42f37358c.jpg",
+    "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/894020/7e82cc8c9f64c86ca814c080f7278eb42f37358c.jpg",
     "title": "Logro 2",
     "description": "Descripción del logro 2"
   }
