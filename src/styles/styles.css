@@ -211,7 +211,6 @@ table img {
   z-index: 1;
   top: 100%;
   left: 0;
-  background: linear-gradient(to right, #000, #555); /* Degradado de negro a gris */
 }
 
 /* Estilos scrollbar */
@@ -260,7 +259,18 @@ body::-webkit-scrollbar{
   background-size: cover;
 }
 
-.achievement img {
+
+.JuegoI{
+  width: 8em;
+  margin-left: 6rem;
+  top:0;
+  opacity: 70%;
+  border-radius: 10%;
+}
+
+
+
+.logoj {
   width: 70px;
   height: 70px;
   margin-right: 20px;
@@ -286,10 +296,8 @@ body::-webkit-scrollbar{
 
 .verticalLine{ width: 2px;
   background-color: #645555;
-  height: 145%;
   float: left;
-  margin-left: 8rem;
-  padding-top: 3rem; 
+  margin-left: 8rem; 
 }
 
 .noLogros{

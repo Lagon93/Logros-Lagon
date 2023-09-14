@@ -59,12 +59,27 @@ const HomePage = () => {
   }, []); // El efecto se ejecuta solo una vez, ya que la dependencia es un arreglo vacío
 
   const ComparaFecha = (timestamp) => {
-    let timestampn= Number.parseInt(timestamp);
-    var date = new Date(timestampn * 1000); // Multiplica el timestamp por 1000 para obtener milisegundos
-    let dateh = new Date().toLocaleDateString("en-IN");
-    return date === dateh;
+    let timestampn = Number.parseInt(timestamp);
+    var date = new Date(timestampn * 1000);
+    let dateh = new Date().toLocaleDateString("en-EN");
 
-  };
+    // Ajusta las fechas para que solo contengan año, mes y día
+    date = new Date(date.getFullYear(), date.getMonth(), date.getDate());
+    dateh = new Date(dateh).toLocaleDateString("en-EN");
+    
+    console.log("Fecha actual:", date);
+    console.log("Fecha actual en España:", dateh);
+
+    if (date.getTime() === new Date(dateh).getTime()) {
+        console.log("Las fechas coinciden.");
+    } else {
+        console.log("Las fechas no coinciden.");
+    }
+
+    return date.getTime() === new Date(dateh).getTime();
+};
+
+
 
   // Renderiza el contenido del componente
   return (
@@ -79,10 +94,9 @@ const HomePage = () => {
         <div className="rock-achiev"></div>
         <div className="logrosdiarios">
           {/* Mapea los datos de logros diarios y renderiza cada logro */}
-          {achievementsData.map((game) =>
-            game.achievements.map((achievement) => {
+          {achievementsData.map((game) =>          
+            game.achievements.map((achievement) => {;
               if (ComparaFecha(achievement.unlocktime)) {
-                // Renderizar contenido cuando game.completed sea verdadero
                 juegosD = true;
                 return (
                   <div key={achievement.id} className="achievement">
@@ -92,17 +106,18 @@ const HomePage = () => {
                         alt="Roca"
                       />
                     </div>
-                    <img src={achievement.image} alt={achievement.name}></img>
+                    <img className="logoj"src={achievement.image} alt={achievement.name}></img>
                     <div>
                       <h2>{achievement.name}</h2>
                       <p>{achievement.description}</p>
                     </div>
                     <div className="verticalLine">
-                      <p></p>
+                      <img className="JuegoI" src={game.image}></img>
                     </div>
                   </div>
                 );
               }
+              return null;
             })
           )}
           {juegosD ? null : <img src="/nologros.png" alt="Hoy no hay logros" className="noLogros" />}
