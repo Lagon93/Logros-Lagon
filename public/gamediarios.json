@@ -2669,6 +2669,13 @@
                 "unlocktime": "1694519529"
             },
             {
+                "id": "achievement_plus_thirteen",
+                "name": "Item +13",
+                "description": "Get a +13 item in your Armory.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/9bbc68e7f44e5b11a672fbb6f51f4ca24ed84e4f.jpg",
+                "unlocktime": "1694685693"
+            },
+            {
                 "id": "achievement_plus_twelve",
                 "name": "Item +12",
                 "description": "Get a +12 item in your Armory.",
@@ -3682,6 +3689,20 @@
                 "description": "Pick up 150 Diamonds.",
                 "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/db46b2ad52eda345733ec1f45ef4bc3e1bac0e41.jpg",
                 "unlocktime": "1694185303"
+            },
+            {
+                "id": "achievement_the_wind_of_change",
+                "name": "The Wind of Change",
+                "description": "Slay 100 enemies using the Wind Dash ability.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/cfe03cc4d27733376349d51d7bf1c0c34c1f6fbe.jpg",
+                "unlocktime": "1694686113"
+            },
+            {
+                "id": "achievement_where_the_wind_blows",
+                "name": "Where The Wind Blows",
+                "description": "Slay 500 enemies using the Wind Dash ability.",
+                "image": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1353300/bace60a5b4d5b9806d6f3c9c707c223bb9162d8c.jpg",
+                "unlocktime": "1694686170"
             },
             {
                 "id": "achievement_craftsman",

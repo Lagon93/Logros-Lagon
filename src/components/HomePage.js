@@ -66,20 +66,18 @@ const HomePage = () => {
     // Ajusta las fechas para que solo contengan año, mes y día
     date = new Date(date.getFullYear(), date.getMonth(), date.getDate());
     dateh = new Date(dateh).toLocaleDateString("en-EN");
-    
+
     console.log("Fecha actual:", date);
     console.log("Fecha actual en España:", dateh);
 
     if (date.getTime() === new Date(dateh).getTime()) {
-        console.log("Las fechas coinciden.");
+      console.log("Las fechas coinciden.");
     } else {
-        console.log("Las fechas no coinciden.");
+      console.log("Las fechas no coinciden.");
     }
 
     return date.getTime() === new Date(dateh).getTime();
-};
-
-
+  };
 
   // Renderiza el contenido del componente
   return (
@@ -94,8 +92,8 @@ const HomePage = () => {
         <div className="rock-achiev"></div>
         <div className="logrosdiarios">
           {/* Mapea los datos de logros diarios y renderiza cada logro */}
-          {achievementsData.map((game) =>          
-            game.achievements.map((achievement) => {;
+          {achievementsData.map((game) =>
+            game.achievements.map((achievement) => {
               if (ComparaFecha(achievement.unlocktime)) {
                 juegosD = true;
                 return (
@@ -106,13 +104,17 @@ const HomePage = () => {
                         alt="Roca"
                       />
                     </div>
-                    <img className="logoj"src={achievement.image} alt={achievement.name}></img>
+                    <img
+                      className="logoj"
+                      src={achievement.image}
+                      alt={achievement.name}
+                    ></img>
                     <div>
                       <h2>{achievement.name}</h2>
                       <p>{achievement.description}</p>
                     </div>
                     <div className="verticalLine">
-                      <img className="JuegoI" src={game.image}></img>
+                      <img className="JuegoI" src={game.image} alt="Juego del logro"></img>
                     </div>
                   </div>
                 );
@@ -120,7 +122,13 @@ const HomePage = () => {
               return null;
             })
           )}
-          {juegosD ? null : <img src="/nologros.png" alt="Hoy no hay logros" className="noLogros" />}
+          {juegosD ? null : (
+            <img
+              src="/nologros.png"
+              alt="Hoy no hay logros"
+              className="noLogros"
+            />
+          )}
         </div>
       </div>
 
@@ -138,7 +146,11 @@ const HomePage = () => {
                   className="game-icon"
                   onClick={() => handleGameClick(game.id)}
                 >
-                  <img src={game.image} alt={game.gameName} className="game-icon-img" />
+                  <img
+                    src={game.image}
+                    alt={game.gameName}
+                    className="game-icon-img"
+                  />
                 </div>
                 <p>{game.gameName}</p>
               </div>
